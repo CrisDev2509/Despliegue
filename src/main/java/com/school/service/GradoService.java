@@ -1,4 +1,4 @@
-package com.school.service;
+/*package com.school.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -14,4 +14,23 @@ public interface GradoService {
 	public List<Grado> findAll();
 	
 	public boolean delete(Long id);
+}*/
+package com.school.service;
+
+import java.util.List;
+import java.util.Optional;
+import com.school.model.Grado;
+
+public interface GradoService {
+
+    public Grado save(Grado grado);
+
+    public Optional<Grado> getGradoById(Long id);
+
+    public List<Grado> findAll();
+
+    public boolean delete(Long id);
+
+    // 👈 AGREGAR ESTE MÉTODO
+    public List<Grado> getGradosByNivel(Long nivelId);
 }

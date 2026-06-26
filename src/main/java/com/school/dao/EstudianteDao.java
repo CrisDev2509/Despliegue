@@ -5,6 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.school.model.Estudiante;
 import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
 
 import java.util.List;
 
@@ -16,5 +17,9 @@ public interface EstudianteDao extends JpaRepository<Estudiante, Long>{
     public Estudiante findByDniAndDni(String username, String password);
 
     public Estudiante findByDni(String dni);
+    
+    // 👈 NUEVO MÉTODO
+    @Query("SELECT e FROM Estudiante e WHERE e.correo = :correo")
+    public Estudiante findByCorreo(@Param("correo") String correo);
 
 }

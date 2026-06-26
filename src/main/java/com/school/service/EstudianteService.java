@@ -31,5 +31,8 @@ public interface EstudianteService {
 
 	public Estudiante findByDni(String dni);
 
+	// 👈 NUEVO MÉTODO
+    public Estudiante findByCorreo(String correo);
+
 
 }

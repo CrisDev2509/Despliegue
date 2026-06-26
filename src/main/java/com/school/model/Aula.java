@@ -29,7 +29,7 @@ public class Aula implements Serializable {
 	private Long id;
 
 	@NotEmpty(message = "no puede estar vacío.")
-	@Size(min = 2, max = 20, message = "tiene que ser entre 2 y 20 caracteres.")
+	@Size(min = 2, max = 50, message = "tiene que ser entre 2 y 20 caracteres.")
 	private String nombre;
 
 	@NotEmpty(message = "no puede estar vacío.")
