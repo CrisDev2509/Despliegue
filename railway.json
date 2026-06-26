@@ -1,0 +1,11 @@
+{
+  "build": {
+    "builder": "heroku/buildpacks:20",
+    "buildpacks": [
+      "heroku/java"
+    ]
+  },
+  "deploy": {
+    "startCommand": "java -jar target/*.jar"
+  }
+}
