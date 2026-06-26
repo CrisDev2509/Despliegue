@@ -25,4 +25,7 @@ public interface MatriculaService {
 	public List<DiaSemana> getDias();
 
 	public List<Matricula> getMatriculasPorEstudiante(Long id);
+
+	// 👇 AGREGAR ESTA LÍNEA
+	public byte[] generarReporteNotasExcel(String tipo, Long idCurso, Long idGrado, String bimestre);
 }

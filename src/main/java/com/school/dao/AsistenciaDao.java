@@ -16,6 +16,4 @@ public interface AsistenciaDao extends JpaRepository<Asistencia, Long> {
 
     @Query("FROM Asistencia a WHERE a.fecha = ?1 and a.estudiante.aulaEstudiante.id = ?2")
     public List<Asistencia> findAsistenciaByFechaAula(String fecha, Long idAula);
-
-
 }

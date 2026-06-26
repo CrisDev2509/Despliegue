@@ -143,13 +143,31 @@ public class MatriculaController {
 				.body(asistenciaService.generarReporteAsistencia("xls", fecha));
 	}
 
+	
+
 	@GetMapping("/getReporteCursoXLS")
-	public ResponseEntity<?> getReporteCursoXLS(@RequestParam("idCurso") String idCurso, @RequestParam("idGrado")  String idGrado){
-		return ResponseEntity.ok()
-				.contentType(MediaType.APPLICATION_OCTET_STREAM)
-				.header("Content-Disposition","attachment; filename="+"cursos.xlsx")
-				.body(claseService.generarReporteCurso("xls", Long.parseLong(idCurso), Long.parseLong(idGrado)));
-	}
+public ResponseEntity<?> getReporteCursoXLS(
+        @RequestParam("idCurso") String idCurso, 
+        @RequestParam("idGrado") String idGrado,
+        @RequestParam("bimestre") String bimestre) {  // 👈 AGREGAR bimestre
+    
+    byte[] excelBytes = matriculaService.generarReporteNotasExcel(
+        "xls", 
+        Long.parseLong(idCurso), 
+        Long.parseLong(idGrado), 
+        bimestre
+    );
+    
+    if (excelBytes == null || excelBytes.length == 0) {
+        return ResponseEntity.noContent().build();
+    }
+    
+    return ResponseEntity.ok()
+            .contentType(MediaType.APPLICATION_OCTET_STREAM)
+            .header("Content-Disposition", "attachment; filename=notas.xlsx")
+            .body(excelBytes);
+}
+
 
 	@PreAuthorize("hasRole('ADMIN')")
 	@GetMapping("/getAsistenciasPorDia")

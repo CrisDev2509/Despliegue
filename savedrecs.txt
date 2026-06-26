@@ -1,0 +1,1542 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Fernandez, MC
+   Castillo-Velásquez, FA
+   Rodriguez-Abreo, O
+   Ortiz-Moctezuma, E
+   Carrera, LAI
+   Estevez-Ben, AA
+   Alvarez-Alvarado, JM
+   Rodriguez-Resendiz, J
+AF Cruz Fernandez, Mayra
+   Castillo-Velasquez, Francisco Antonio
+   Rodriguez-Abreo, Omar
+   Ortiz-Moctezuma, Enriqueta
+   Iturralde Carrera, Luis Angel
+   Estevez-Ben, Adyr A.
+   Alvarez-Alvarado, Jose M.
+   Rodriguez-Resendiz, Juvenal
+TI Neural Network-Based Weight Loss Prediction: Behavioral Integration of
+   Stress and Sleep in AI Decision Support
+SO AI
+AB This study evaluates the effect of incorporating behavioral variables, sleep quality (SQ) and stress level (SL), into neural network models for predicting weight loss. An artificial neural network (ANN) was trained using data from 100 adults aged 18 to 60, integrating demographic, physiological, and behavioral inputs. The findings emphasize that weight change is a multifactorial process influenced not only by caloric intake, basal metabolic rate, and physical activity, but also by psychological and behavioral factors such as sleep and stress. From a medical perspective, the inclusion of SQ and SL aligns with the biopsychosocial model of obesity, acknowledging the metabolic consequences of chronic stress and poor sleep. This integration allows for the development of low-cost, non-invasive, and personalized weight management tools based on self-reported data, especially valuable in resource-limited healthcare settings. Behavioral-aware AI systems such as the one proposed have the potential to support clinical decision-making, enable early risk detection, and guide the development of digital therapeutics. Quantitative results demonstrate that the best-performing architecture achieved a Root Mean Square Error (RMSE) of 1.98%; when SQ was excluded, the RMSE increased to 4.39% (1.8-fold), when SL was excluded it rose to 4.69% (1.95-fold), and when both were removed, the error reached 6.02% (2.5-fold), confirming the substantial predictive contribution of these behavioral variables.
+RI ; Rodriguez-Resendiz, Juvenal/AAA-9293-2020; Álvarez Alvarado, José
+   Manuel/AFC-4921-2022; Rodriguez Abreo, Omar/AAC-5252-2021; Iturralde
+   Carrera, Luis Angel/NMJ-8573-2025; Castillo Velásquez,
+   Francisco/IAR-1638-2023; Estévez de Bén, Adyr/AAK-1385-2020
+OI Castillo Velasquez, Francisco Antonio/0000-0002-4871-936X;
+   Rodriguez-Resendiz, Juvenal/0000-0001-8598-5600; Álvarez Alvarado, José
+   Manuel/0000-0002-1304-6791; Estévez de Bén, Adyr
+   Andrés/0000-0002-7613-7463; Rodriguez Abreo, Omar/0000-0002-8650-1185;
+   Iturralde Carrera, Luis Angel/0000-0002-5595-9329; 
+EI 2673-2688
+PD SEP 2
+PY 2025
+VL 6
+IS 9
+AR 210
+DI 10.3390/ai6090210
+UT WOS:001579334700001
+ER
+
+PT J
+AU Liggett, L
+   Snow, B
+   Tennyson, C
+AF Liggett, Laura
+   Snow, Brandi
+   Tennyson, Carolina
+TI Simulation to Enhance the Triage Skills of Nurse Practitioner Students
+SO JNP- THE JOURNAL FOR NURSE PRACTITIONERS
+AB An innovative, low-cost, low-fidelity tabletop simulation was developed that addresses several of the American Association of Colleges of Nursing 2021 "Essentials" domains, which prepares nurse practitioner students to transition into practice through the exploration of knowledge of nursing practice, professional leadership, quality and safety, and person-centered care. The students act as hospitalist nurse practitioners, triaging patients with acute issues presented throughout the simulation to influence prioritization and the need to communicate and collaborate with the interdisciplinary team. Finally, we explore health care system initiatives and metrics to address system-based practice that may influence clinical decision-making alongside patient acuity. (c) 2024 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+OI Liggett, Laura/0009-0007-9349-9099
+SN 1555-4155
+EI 1878-058X
+PD MAR
+PY 2025
+VL 21
+IS 3
+AR 105309
+DI 10.1016/j.nurpra.2024.105309
+EA JAN 2025
+UT WOS:001410535800001
+ER
+
+PT J
+AU Ahmed, MS
+   Giordano, S
+   Adami, D
+AF Ahmed, Md Sabbir
+   Giordano, Stefano
+   Adami, Davide
+TI Performance Comparison of Embedded AI Solutions for Classification and
+   Detection in Lung Disease Diagnosis
+SO APPLIED SCIENCES-BASEL
+AB Lung disease diagnosis from chest X-ray images is a critical task in clinical care, especially in resource-constrained settings where access to radiology expertise and computational infrastructure is limited. Recent advances in deep learning have shown promise, yet most studies focus solely on either classification or detection in isolation, rarely exploring their combined potential in an embedded, real-world setting. To address this, we present a dual deep learning approach that combines five-class disease classification and multi-label thoracic abnormality detection, optimized for embedded edge deployment. Specifically, we evaluate six state-of-the-art CNN architectures-ResNet101, DenseNet201, MobileNetV3-Large, EfficientNetV2-B0, InceptionResNetV2, and Xception-on both base (2020 images) and augmented (9875 images) datasets. Validation accuracies ranged from 55.3% to 70.7% on the base dataset and improved to 58.4% to 72.0% with augmentation, with MobileNetV3-Large achieving the highest accuracy on both. In parallel, we trained a YOLOv8n model for multi-label detection of 14 thoracic diseases. While not deployed in this work, its lightweight architecture makes it suitable for future use on embedded platforms. All classification models were evaluated for end-to-end inference on a Raspberry Pi 4 using a high-resolution chest X-ray image (2566 x 2566, PNG). MobileNetV3-Large demonstrated the fastest latency at 429.6 ms, and all models completed inference in under 2.4 s. These results demonstrate the feasibility of combining classification for rapid triage and detection for spatial interpretability in real-time, embedded clinical environments-paving the way for practical, low-cost AI-based decision support systems for surgery rooms and mobile clinical environments.
+RI ; GIORDANO, STEFANO/D-2469-2010
+OI Adami, Davide/0000-0003-3007-1400; GIORDANO,
+   STEFANO/0000-0002-1408-7528; Ahmed, Sabbir/0009-0005-0480-0392
+EI 2076-3417
+PD AUG 26
+PY 2025
+VL 15
+IS 17
+AR 9345
+DI 10.3390/app15179345
+UT WOS:001569545900001
+ER
+
+PT J
+AU Yu, HZ
+   Zhou, JY
+   Li, LY
+   Chen, S
+   Gallifant, J
+   Shi, AY
+   Sun, J
+   Li, X
+   He, JX
+   Hua, WY
+   Jin, MY
+   Chen, G
+   Zhou, Y
+   Li, Z
+   Gupte, T
+   Chen, ML
+   Azizi, Z
+   Dou, Q
+   Yan, BP
+   Xing, YQ
+   Zhang, YF
+   Assimes, TL
+   Bitterman, DS
+   Ma, X
+   Lu, L
+   Fan, LZ
+AF Yu, Huizi
+   Zhou, Jiayan
+   Li, Lingyao
+   Chen, Shan
+   Gallifant, Jack
+   Shi, Anye
+   Sun, Jie
+   Li, Xiang
+   He, Jingxian
+   Hua, Wenyue
+   Jin, Mingyu
+   Chen, Guang
+   Zhou, Yang
+   Li, Zhao
+   Gupte, Trisha
+   Chen, Ming-Li
+   Azizi, Zahra
+   Dou, Qi
+   Yan, Bryan P.
+   Xing, Yanqiu
+   Zhang, Yongfeng
+   Assimes, Themistocles L.
+   Bitterman, Danielle S.
+   Ma, Xin
+   Lu, Lin
+   Fan, Lizhou
+TI Simulated patient systems powered by large language model-based AI
+   agents offer potential for transforming medical education
+SO COMMUNICATIONS MEDICINE
+AB Background: Simulated patient systems are vital in medical education and research, providing safe, integrative training environments and supporting clinical decision-making. Progressive Artificial Intelligence (AI) technologies, such as Large Language Models (LLM), could advance simulated patient systems by replicating medical conditions and patient-doctor interactions with high fidelity and low cost. However, effectiveness and trustworthiness remain challenging. Methods: We developed AIPatient, a simulated patient system powered by LLM-based AI agents. The system incorporates the Retrieval Augmented Generation (RAG) framework, powered by six task-specific LLM-based AI agents for complex reasoning. For simulation reality, the system is also powered by the AIPatient KG (Knowledge Graph), built with de-identified real patient data from the Medical Information Mart for Intensive Care (MIMIC)-III database. Results: Here we show that the system's accuracy in Electronic Health Record (EHR)-based medical Question Answering (QA), readability, robustness, and stability. Specifically, the system achieves a QA accuracy of 94.15% when all six agents, surpassing benchmarks with partial or no agent integration. Its knowledgebase demonstrates high validity (F1 score=0.89). Readability scores show median Flesch Reading Ease at 68.77 and median Flesch Kincaid Grade at 6.4, indicating accessibility to all medical professionals. Robustness and stability are confirmed with non-significant variance (ANOVA F-value = 0.6126, p > 0.1; F-value = 0.782, p > 0.1). A user study with medical students shows that AIPatient delivers high fidelity, usability, and educational value, matching or exceeding human-simulated patients in history-taking. Conclusions: Large language model-based simulated patient systems provide accurate, readable, and reliable medical encounters and demonstrates potential to transform medical education.
+RI Fan, Lizhou/ABB-9219-2021; CHEN, GUANG/PGT-9995-2026; Assimes,
+   Themistocles/D-9696-2015
+SN 2730-664X
+PD DEC 19
+PY 2025
+VL 6
+IS 1
+AR 27
+DI 10.1038/s43856-025-01283-x
+UT WOS:001663183700001
+PM 41420084
+ER
+
+PT J
+AU Ormeño-Arriagada, P
+   Márquez, G
+   Taramasco, C
+   Gatica, G
+   Vasconez, JP
+   Navarro, E
+AF Ormeno-Arriagada, Pablo
+   Marquez, Gaston
+   Taramasco, Carla
+   Gatica, Gustavo
+   Vasconez, Juan Pablo
+   Navarro, Eduardo
+TI Early Oral Cancer Detection with AI: Design and Implementation of a Deep
+   Learning Image-Based Chatbot
+SO APPLIED SCIENCES-BASEL
+AB Oral cancer remains a critical global health challenge, with delayed diagnosis driving high morbidity and mortality. Despite progress in artificial intelligence, computer vision, and medical imaging, early detection tools that are accessible, explainable, and designed for patient engagement remain limited. This study presents a novel system that combines a patient-centred chatbot with a deep learning framework to support early diagnosis, symptom triage, and health education. The system integrates convolutional neural networks, class activation mapping, and natural language processing within a conversational interface. Five deep learning models were evaluated (CNN, DenseNet121, DenseNet169, DenseNet201, and InceptionV3) using two balanced public datasets. Model performance was assessed using accuracy, sensitivity, specificity, diagnostic odds ratio (DOR), and Cohen's Kappa. InceptionV3 consistently outperformed the other models across these metrics, achieving the highest diagnostic accuracy (77.6%) and DOR (20.67), and was selected as the core engine of the chatbot's diagnostic module. The deployed chatbot provides real-time image assessments and personalised conversational support via multilingual web and mobile platforms. By combining automated image interpretation with interactive guidance, the system promotes timely consultation and informed decision-making. It offers a prototype for a chatbot, which is scalable and serves as a low-cost solution for underserved populations and demonstrates strong potential for integration into digital health pathways. Importantly, the system is not intended to function as a formal screening tool or replace clinical diagnosis; rather, it provides preliminary guidance to encourage early medical consultation and informed health decisions.
+RI ; Gustavo, Gatica/KXR-7308-2024; Vásconez, Juan Pablo/V-9184-2019;
+   Taramasco Toro, Carla/AHC-8247-2022; Marquez, Gaston/AAK-9416-2020
+OI Ormeno-Arriagada, Pablo/0000-0001-5591-3518; Gustavo,
+   Gatica/0000-0002-1816-6856; Navarro Lorenzo, Eduardo
+   Antonio/0009-0004-0795-1316; Vásconez, Juan Pablo/0000-0002-6372-7405;
+   Taramasco Toro, Carla/0000-0001-8318-4201; Marquez,
+   Gaston/0000-0003-0167-5969
+EI 2076-3417
+PD OCT 7
+PY 2025
+VL 15
+IS 19
+AR 10792
+DI 10.3390/app151910792
+UT WOS:001593487900001
+ER
+
+PT J
+AU Öksüz, C
+AF Oksuz, Cosku
+TI Slice-level classification of kidney organ presence using CNN-ViT
+   features: Toward clinical pre-screening
+SO JOURNAL OF POLYTECHNIC-POLITEKNIK DERGISI
+AB Kidney stone disease is a major global health concern due to its rising prevalence and related complications. Although computed tomography (CT) is highly sensitive for diagnosis, its volumetric nature increases radiologists' workload and review time. This study proposes a lightweight and low-cost deep learning-based pre-classification model to distinguish between CT slices containing the kidney and those that do not, as a preliminary step for kidney stone detection systems. The model aims to eliminate irrelevant slices and direct only meaningful images to both the second-stage AI model and the radiologist. Vision Transformer (ViT) was used to capture the global spatial context of the kidney, while ResNet18 extracted local features. These features were fused and classified using a shallow neural network. The model was tested within an interactive interface built using real patient data and integrated into a pilot application. Results showed that the proposed system achieved an average of 64.1% time saving per patient (similar to 24 minutes) by filtering out non-relevant slices, with 89.4% accuracy, 89.4% recall, and 89.5% specificity. These findings suggest that the model is a practical and efficient pre-screening component for clinical workflows and highlights the importance of pilot testing and expert feedback before real-world deployment of AI systems.
+RI ÖKSÜZ, COŞKU/AAH-3944-2021
+OI ÖKSÜZ, COŞKU/0000-0001-7116-2734
+SN 1302-0900
+EI 2147-9429
+PD MAR
+PY 2026
+VL 29
+IS 3
+DI 10.2339/politeknik.1750335
+EA OCT 2025
+UT WOS:001608208700001
+ER
+
+PT J
+AU Sancar, Y
+   Aksakalli, IK
+   Sokmen, O
+   Barin, H
+   Torenek-Agirman, K
+AF Sancar, Yasin
+   Aksakalli, Isil Karabey
+   Sokmen, Ozlem
+   Barin, Hande
+   Torenek-Agirman, Kubra
+TI An attention-based transfer learning model for diagnosing subluxation in
+   temporomandibular joint panoramic radiographs
+SO SCIENTIFIC REPORTS
+AB Artificial intelligence (AI) and deep learning (DL) techniques have great potential to accelerate diagnostic processes, increase accuracy, and support clinical decision-making in healthcare. In this study, we propose a transfer learning-based approach-one of the DL techniques-to improve subluxation (SL) detection in temporomandibular joint panoramic radiography (TMJ-PR) images. For this purpose, we prepared and publicly released a dataset comprising 3,425 annotated TMJ-PR images to encourage reproducibility and further research in this domain. Several transfer learning models including MobileNet, ResNet50V2, InceptionV3, Xception, EfficientNetV2B0, InceptionResNetV2, and DenseNet201 were trained and evaluated using a 5-fold cross-validation method. By integrating a self-attention mechanism into the DenseNet201 model which achieved the highest baseline performance across all metrics, the proposed attention-based version yielded further improvements, achieving an accuracy of 90.7%, precision of 90.7%, recall of 90.7%, specificity of 89.4%, and F1-score of 90.7%. The results indicate that the proposed model achieves superior F1-score performance compared to all baseline models with relative improvements ranging from +2.40% (vs. DenseNet201) to +14.26% (vs. EfficientNetV2B0). The findings demonstrate that the proposed model not only improves subluxation detection performance but also offers a promising foundation for integration into a clinical decision support system (CDSS), enhancing early diagnosis and treatment planning using low-cost TMJ-PR images. The publicly shared dataset further supports transparency and reproducibility in future medical AI research.
+RI Torenek-Agirman, Kubra/AAL-9454-2021; sancar, yasin/ABB-9301-2021;
+   KARABEY AKSAKALLI, Isil/ADT-5616-2022
+SN 2045-2322
+PD DEC 18
+PY 2025
+VL 16
+IS 1
+AR 1282
+DI 10.1038/s41598-025-31462-8
+UT WOS:001658028000001
+PM 41413172
+ER
+
+PT J
+AU Sarsam, SM
+   Alzahrani, AI
+   Al-Samarraie, H
+AF Sarsam, Samer Muthana
+   Alzahrani, Ahmed Ibrahim
+   Al-Samarraie, Hosam
+TI What topics and emotions expressed by glaucoma patients? A sentiment
+   analysis perspective
+SO SOCIAL NETWORK ANALYSIS AND MINING
+AB The recognition of eye disorders has the potential to reduce blindness in people. The need for a procedural method is important to boost the overall recognition process. Although the identification of certain disease symptoms is crucial to an early diagnosis, this study proposed a procedural mechanism to predict eye diseases on the Twitter platform using users' sentiments embedded in their social media data. Glaucoma was investigated as one example of various eye diseases. Themes related to glaucoma were extracted using Latent Dirichlet Allocation. Subsequently, association rules mining was employed to identify disease-related symptoms within each theme. Our results showed that certain emotions, such as fear and sadness emotions, were highly associated with glaucoma messages. The findings revealed that emotion-related features have a significant impact on improving the prediction process of glaucoma in patients. As a result, this study proposes a low-cost procedural mechanism for the early-stage detection of eye disorders using microblogs data. The proposed approach can advance current efforts toward developing clinical decision support systems capable of detecting diseases online.
+RI Sarsam, Samer/ABH-1955-2020; Alzahrani, Ahmed/AGC-4025-2022;
+   AL-SAMARRAIE, HOSAM/AAG-8941-2019
+OI AL-SAMARRAIE, HOSAM/0000-0002-9861-8989
+SN 1869-5450
+EI 1869-5469
+PD AUG 8
+PY 2024
+VL 14
+IS 1
+AR 155
+DI 10.1007/s13278-024-01309-7
+UT WOS:001286504600001
+ER
+
+PT J
+AU Pacheco, DH
+   Taboada-Crispi, A
+   Puerto, CLJ
+   Dominguez, LAQ
+   Martinez, IS
+AF Pacheco, Denis Hernandez
+   Taboada-Crispi, Alberto
+   Puerto, Carlos Lazaro Jimenez
+   Dominguez, Luis A. Quintero
+   Martinez, Iosmel Sanchez
+TI ESTIMATION OF BIOLOGICAL AGE THROUGH ECG: AN ADVANCE TOWARDS
+   PERSONALIZED PREVENTIVE MEDICINE
+SO REVISTA UNIVERSIDAD Y SOCIEDAD
+AB Machine learning models can unravel complex patterns in the electrocardiographic (ECG) signal, imperceptible even to specialists, which holds great value for personalized preventive medicine. A particularly relevant indicator is the estimation of physiological age from the ECG, which, when compared with chronological age, reflects the real state of the cardiovascular system and allows for the identification of accelerated vascular aging. This study applied 9 fractal measures to three segments of the 12-lead ECG, using Multilayer Perceptron (MLP) classifiers-simple neural networks-to: 1) evaluate the ability of these fractal measures to capture age-related changes in the ECG, and 2) identify in which segment this information primarily resides. Individuals were classified into age categories, with a threshold of 50 years being highlighted. The results show a 75% accuracy in the binary classification (older/younger than 50 years) using the combined fractal values, with no differences among the analyzed segments. Although modest, these findings are promising. They demonstrate that simple, low-cost AI methods, such as the MLP, can be integrated into clinical decision-support tools. This lays the groundwork for developing accessible systems that, through a routine ECG, can help assess individual cardiovascular risk and promote early, personalized preventive interventions.
+RI Pérez-Domínguez, Luis/F-3673-2019; Taboada-Crispi, Alberto/ABC-5178-2020
+SN 2218-3620
+PD NOV-DEC
+PY 2025
+VL 17
+IS 6
+AR e5131
+UT WOS:001643051900014
+ER
+
+PT J
+AU Zhu, TY
+   Kuang, L
+   Daniels, J
+   Herrero, P
+   Li, KZ
+   Georgiou, P
+AF Zhu, Taiyu
+   Kuang, Lei
+   Daniels, John
+   Herrero, Pau
+   Li, Kezhi
+   Georgiou, Pantelis
+TI IoMT-Enabled Real-Time Blood Glucose Prediction With Deep Learning and
+   Edge Computing
+SO IEEE INTERNET OF THINGS JOURNAL
+AB Blood glucose (BG) prediction is essential to the success of glycemic control in type 1 diabetes (T1D) management. Empowered by the recent development of the Internet of Medical Things (IoMT), continuous glucose monitoring (CGM) and deep learning technologies have been demonstrated to achieve the state of the art in BG prediction. However, it is challenging to implement such algorithms in actual clinical settings to provide persistent decision support due to the high demand for computational resources, while smartphone-based implementations are limited by short battery life and require users to carry the device. In this work, we propose a new deep learning model using an attention-based evidential recurrent neural network and design an IoMT-enabled wearable device to implement the embedded model, which comprises a low-cost and low-power system on a chip to perform Bluetooth connectivity and edge computing for real-time BG prediction and predictive hypoglycemia detection. In addition, we developed a smartphone app to visualize BG trajectories and predictions, and desktop and cloud platforms to backup data and fine-tune models. The embedded model was evaluated on three clinical data sets including 47 T1D subjects. The proposed model achieved superior performance of root mean square error (RMSE), mean absolute error, and glucose-specific RMSE, and obtained the best accuracy for hypoglycemia detection when compared with a group of machine learning baseline methods. Moreover, we performed hardware-in-the-loop in silico trials with ten virtual T1D adults to test the whole IoMT system with predictive low-glucose management, which significantly reduced hypoglycemia and improved BG control.
+RI ; Herrero, Pau/U-5308-2019; Zhu, Taiyu/ACZ-6842-2022
+OI Kuang, Lei/0000-0002-3415-3748; Li, Kezhi/0000-0003-3073-3128; Daniels,
+   John/0000-0002-4464-2625; Herrero, Pau/0000-0002-7088-5807; Zhu,
+   Taiyu/0000-0002-9782-3470; Georgiou, Pantelis/0000-0003-2476-3857
+SN 2327-4662
+PD MAR 1
+PY 2023
+VL 10
+IS 5
+BP 3706
+EP 3719
+DI 10.1109/JIOT.2022.3143375
+UT WOS:000966966700001
+ER
+
+PT J
+AU Liuzzi, P
+   Campagnini, S
+   Hakiki, B
+   Burali, R
+   Scarpino, M
+   Macchi, C
+   Cecchi, F
+   Mannini, A
+   Grippo, A
+AF Liuzzi, Piergiuseppe
+   Campagnini, Silvia
+   Hakiki, Bahia
+   Burali, Rachele
+   Scarpino, Maenia
+   Macchi, Claudio
+   Cecchi, Francesca
+   Mannini, Andrea
+   Grippo, Antonello
+TI Heart rate variability for the evaluation of patients with disorders of
+   consciousness
+SO CLINICAL NEUROPHYSIOLOGY
+AB Objective: Clinical responsiveness of patients with a Disorder of Consciousness (DoC) correlates to sym-pathetic/parasympathetic homeostatic balance. Heart Rate Variability (HRV) metrics result in non-invasive proxies of modulation capabilities of visceral states. In this work, our aim was to evaluate whether HRV measures could improve the differential diagnosis between Unresponsive Wakefulness Syndrome (UWS) and Minimally Conscious State (MCS) with respect to multivariate models based on standard clinical electroencephalography (EEG) labeling only in a rehabilitation setting.Methods: A prospective observational study was performed consecutively enrolling 82 DoC patients. Polygraphic recordings were performed. HRV-metrics and EEG descriptors derived from the American Clinical Neurophysiology Society's Standardized Critical Care terminology were included. Descriptors entered univariate and then multivariate logistic regressions with the target set to the UWS/MCS diagno-sis.Results: HRV measures resulted significantly different between UWS and MCS patients, with higher val-ues being associated with better consciousness levels. Specifically, adding HRV-related metrics to ACNS EEG descriptors increased the Nagelkerke R2 from 0.350 (only EEG descriptors) to 0.565 (HRV-EEG com-bination) with the outcome set to the consciousness diagnosis.Conclusions: HRV changes across the lowest states of consciousness. Rapid changes in heart rate, occur-ring in better consciousness levels, confirm the mutual correlation between visceral state functioning patterns and consciousness alterations. Significance: Quantitative analysis of heart rate in patients with a DoC paves the way for the implemen-tation of low-cost pipelines supporting medical decisions within multimodal consciousness assessments.CO 2023 International Federation of Clinical Neurophysiology. Published by Elsevier B.V. All rights reserved.
+RI Liuzzi, Piergiuseppe/AAD-2038-2022; grippo, antonello/AAP-6926-2020;
+   Cecchi, Francesca/M-8266-2019; Hakiki, Bahia/AAB-8461-2022; Mannini,
+   Andrea/AAU-9901-2020; Scarpino, Maenia/AAC-2373-2019; campagnini,
+   silvia/GQZ-1106-2022
+OI Liuzzi, Piergiuseppe/0000-0002-6067-474X; Hakiki,
+   Bahia/0000-0001-8540-7405; Mannini, Andrea/0000-0003-0760-052X;
+   Scarpino, Maenia/0000-0002-9930-501X; campagnini,
+   silvia/0000-0001-5732-1399; Burali, Rachele/0000-0002-1567-4134
+SN 1388-2457
+EI 1872-8952
+PD JUN
+PY 2023
+VL 150
+BP 31
+EP 39
+DI 10.1016/j.clinph.2023.03.007
+EA MAR 2023
+UT WOS:000970709600001
+PM 37002978
+ER
+
+PT J
+AU Diaz-Ramón, JL
+   Gardeazabal, J
+   Izu, RM
+   Garrote, E
+   Rasero, J
+   Apraiz, A
+   Penas, C
+   Seijo, S
+   Lopez-Saratxaga, C
+   De la Peña, PM
+   Sanchez-Diaz, A
+   Cancho-Galan, G
+   Velasco, V
+   Sevilla, A
+   Fernandez, D
+   Cuenca, I
+   Cortes, JM
+   Alonso, S
+   Asumendi, A
+   Boyano, MD
+AF Diaz-Ramon, Jose Luis
+   Gardeazabal, Jesus
+   Izu, Rosa Maria
+   Garrote, Estibaliz
+   Rasero, Javier
+   Apraiz, Aintzane
+   Penas, Cristina
+   Seijo, Sandra
+   Lopez-Saratxaga, Cristina
+   De la Pena, Pedro Maria
+   Sanchez-Diaz, Ana
+   Cancho-Galan, Goikoane
+   Velasco, Veronica
+   Sevilla, Arrate
+   Fernandez, David
+   Cuenca, Iciar
+   Cortes, Jesus Maria
+   Alonso, Santos
+   Asumendi, Aintzane
+   Boyano, Maria Dolores
+TI Melanoma Clinical Decision Support System: An Artificial
+   Intelligence-Based Tool to Diagnose and Predict Disease Outcome in
+   Early-Stage Melanoma Patients
+SO CANCERS
+AB Simple Summary: Early diagnosis and accurate prognosis is essential to personalize treatment and improve the survival of melanoma patients. We report here a new tool that can improve the early diagnosis of melanoma through the use of epiluminescence dermatoscopy and deep learning image analysis. By employing artificial intelligence algorithms to analyze simple serological and histopathological biomarkers, the risk of metastasis and the disease-free interval of melanoma patients can be accurately predicted. This low-cost Melanoma Clinical Decision Support System represents an effective tool to help clinicians manage melanoma patients.
+   This study set out to assess the performance of an artificial intelligence (AI) algorithm based on clinical data and dermatoscopic imaging for the early diagnosis of melanoma, and its capacity to define the metastatic progression of melanoma through serological and histopathological biomarkers, enabling dermatologists to make more informed decisions about patient management. Integrated analysis of demographic data, images of the skin lesions, and serum and histopathological markers were analyzed in a group of 196 patients with melanoma. The interleukins (ILs) IL-4, IL-6, IL-10, and IL-17A as well as IFN gamma (interferon), GM-CSF (granulocyte and macrophage colony-stimulating factor), TGF beta (transforming growth factor), and the protein DCD (dermcidin) were quantified in the serum of melanoma patients at the time of diagnosis, and the expression of the RKIP, PIRIN, BCL2, BCL3, MITF, and ANXA5 proteins was detected by immunohistochemistry (IHC) in melanoma biopsies. An AI algorithm was used to improve the early diagnosis of melanoma and to predict the risk of metastasis and of disease-free survival. Two models were obtained to predict metastasis (including "all patients" or only patients "at early stages of melanoma"), and a series of attributes were seen to predict the progression of metastasis: Breslow thickness, infiltrating BCL-2 expressing lymphocytes, and IL-4 and IL-6 serum levels. Importantly, a decrease in serum GM-CSF seems to be a marker of poor prognosis in patients with early-stage melanomas.
+RI Asumendi, Aintzane/ABF-7001-2021; BOYANO LOPEZ, MARIA
+   DOLORES/ABF-6668-2021; Penas Lago, Cristina/ABD-9750-2021; Alonso,
+   Santos/L-8316-2014; Cortes, Jesus M/D-9949-2012; Rasero,
+   Javier/ABC-7280-2020; Apraiz, Aintzane/AAB-1342-2019
+OI Asumendi, Aintzane/0000-0002-2156-2323; BOYANO LOPEZ, MARIA
+   DOLORES/0000-0001-6051-1054; Penas Lago, Cristina/0000-0003-4659-6770;
+   Garrote, Estibaliz/0000-0002-0268-0391; Seijo,
+   Sandra/0000-0002-1796-7061; Sevilla Mambrilla,
+   Arrate/0000-0002-4860-3359; Alonso, Santos/0000-0003-0221-4048; Cortes,
+   Jesus M/0000-0002-9059-8194; L Saratxaga, Cristina/0000-0003-1429-7936;
+   Rasero, Javier/0000-0003-1661-2856; 
+EI 2072-6694
+PD APR
+PY 2023
+VL 15
+IS 7
+AR 2174
+DI 10.3390/cancers15072174
+UT WOS:000973115000001
+PM 37046835
+ER
+
+PT J
+AU Sood, D
+   Riaz, ZM
+   Mikkilineni, J
+   Ravi, NN
+   Chidipothu, V
+   Yerrapragada, G
+   Elangovan, P
+   Shariff, MN
+   Natarajan, T
+   Janarthanan, J
+   Asadimanesh, N
+   Karuppiah, SS
+   Gopalakrishnan, K
+   Arunachalam, SP
+AF Sood, Divyanshi
+   Riaz, Zenab Muhammad
+   Mikkilineni, Jahnavi
+   Ravi, Narendra Nath
+   Chidipothu, Vineeta
+   Yerrapragada, Gayathri
+   Elangovan, Poonguzhali
+   Shariff, Mohammed Naveed
+   Natarajan, Thangeswaran
+   Janarthanan, Jayarajasekaran
+   Asadimanesh, Naghmeh
+   Karuppiah, Shiva Sankari
+   Gopalakrishnan, Keerthy
+   Arunachalam, Shivaram P.
+TI Prospects of AI-Powered Bowel Sound Analytics for Diagnosis,
+   Characterization, and Treatment Management of Inflammatory Bowel Disease
+SO MEDICAL SCIENCES
+AB Background: This narrative review examines the role of artificial intelligence (AI) in bowel sound analysis for the diagnosis and management of inflammatory bowel disease (IBD). Inflammatory bowel disease (IBD), encompassing Crohn's disease and ulcerative colitis, presents a significant clinical burden due to its unpredictable course, variable symptomatology, and reliance on invasive procedures for diagnosis and disease monitoring. Despite advances in imaging and biomarkers, tools such as colonoscopy and fecal calprotectin remain costly, uncomfortable, and impractical for frequent or real-time assessment. Meanwhile, bowel sounds-an overlooked physiologic signal-reflect underlying gastrointestinal motility and inflammation but have historically lacked objective quantification. With recent advances in artificial intelligence (AI) and acoustic signal processing, there is growing interest in leveraging bowel sound analysis as a novel, non-invasive biomarker for detecting IBD, monitoring disease activity, and predicting disease flares. This approach holds the promise of continuous, low-cost, and patient-friendly monitoring, which could transform IBD management. Objectives: This narrative review assesses the clinical utility, methodological rigor, and potential future integration of artificial intelligence (AI)-driven bowel sound analysis in inflammatory bowel disease (IBD), with a focus on its potential as a non-invasive biomarker for disease activity, flare prediction, and differential diagnosis. Methods: This manuscript reviews the potential of AI-powered bowel sound analysis as a non-invasive tool for diagnosing, monitoring, and managing inflammatory bowel disease (IBD), including Crohn's disease and ulcerative colitis. Traditional diagnostic methods, such as colonoscopy and biomarkers, are often invasive, costly, and impractical for real-time monitoring. The manuscript explores bowel sounds, which reflect gastrointestinal motility and inflammation, as an alternative biomarker by utilizing AI techniques like convolutional neural networks (CNNs), transformers, and gradient boosting. We analyze data on acoustic signal acquisition (e.g., smart T-shirts, smartphones), signal processing methodologies (e.g., MFCCs, spectrograms, empirical mode decomposition), and validation metrics (e.g., accuracy, F1 scores, AUC). Studies were assessed for clinical relevance, methodological rigor, and translational potential. Results: Across studies enrolling 16-100 participants, AI models achieved diagnostic accuracies of 88-96%, with AUCs >= 0.83 and F1 scores ranging from 0.71 to 0.85 for differentiating IBD from healthy controls and IBS. Transformer-based approaches (e.g., HuBERT, Wav2Vec 2.0) consistently outperformed CNNs and tabular models, yielding F1 scores of 80-85%, while gradient boosting on wearable multi-microphone recordings demonstrated robustness to background noise. Distinct acoustic signatures were identified, including prolonged sound-to-sound intervals in Crohn's disease (mean 1232 ms vs. 511 ms in IBS) and high-pitched tinkling in stricturing phenotypes. Despite promising performance, current models remain below established biomarkers such as fecal calprotectin (similar to 90% sensitivity for active disease), and generalizability is limited by small, heterogeneous cohorts and the absence of prospective validation. Conclusions: AI-powered bowel sound analysis represents a promising, non-invasive tool for IBD monitoring.
+   However, widespread clinical integration requires standardized data acquisition protocols, large multi-center datasets with clinical correlates, explainable AI frameworks, and ethical data governance. Future directions include wearable-enabled remote monitoring platforms and multi-modal decision support systems integrating bowel sounds with biomarker and symptom data. This manuscript emphasizes the need for large-scale, multi-center studies, the development of explainable AI frameworks, and the integration of these tools within clinical workflows. Future directions include remote monitoring using wearables and multi-modal systems that combine bowel sounds with biomarkers and patient symptoms, aiming to transform IBD care into a more personalized and proactive model.
+RI ; Elangovan, Poonguzhali/ABW-4975-2022
+OI Natarajan, Thangeswaran/0009-0008-6640-7942; 
+EI 2076-3271
+PD OCT 13
+PY 2025
+VL 13
+IS 4
+AR 230
+DI 10.3390/medsci13040230
+UT WOS:001648411000001
+PM 41133513
+ER
+
+PT J
+AU Cuevas-Nunez, M
+   Galletti, C
+   Fiorillo, L
+   Meto, A
+   Díaz-Castañeda, WR
+   Farahani, SS
+   Fadda, G
+   Zuccalà, V
+   Manich, VG
+   Bara-Casaus, J
+   Fernández-Figueras, MT
+AF Cuevas-Nunez, Maria
+   Galletti, Cosimo
+   Fiorillo, Luca
+   Meto, Aida
+   Diaz-Castaneda, Wilmer Rodrigo
+   Farahani, Shokoufeh Shahrabi
+   Fadda, Guido
+   Zuccala, Valeria
+   Manich, Victor Gil
+   Bara-Casaus, Javier
+   Fernandez-Figueras, Maria-Teresa
+TI Assessment of ChatGPT in Recommending Immunohistochemistry Panels for
+   Salivary Gland Tumors
+SO BIOMEDINFORMATICS
+AB Background: Salivary gland tumors pose a diagnostic challenge due to their histological heterogeneity and overlapping features. While immunohistochemistry (IHC) is critical for accurate classification, selecting appropriate markers can be subjective and influenced by resource availability. Artificial intelligence (AI), particularly large language models (LLMs), may support diagnostic decisions by recommending IHC panels. This study evaluated the performance of ChatGPT-4, a free and widely accessible general-purpose LLM, in recommending IHC markers for salivary gland tumors. Methods: ChatGPT-4 was prompted to generate IHC recommendations for 21 types of salivary gland tumors. A consensus of expert pathologists established reference panels. Each tumor type was queried using a standardized prompt designed to elicit IHC marker recommendations ("What IHC markers are recommended to confirm a diagnosis of [tumor type]?"). Outputs were assessed using a structured scoring rubric measuring accuracy, completeness, and relevance. Agreement was measured using Cohen's Kappa, and diagnostic performance was evaluated via sensitivity, specificity, and F1-scores. Repeated-measures ANOVA and Bland-Altman analysis assessed consistency across three prompts. Results were compared to a rule-based system aligned with expert protocols. Results: ChatGPT-4 demonstrated moderate overall agreement with the pathologist panel (kappa = 0.53). Agreement was higher for benign tumors (kappa = 0.67) than for malignant ones (kappa = 0.40), with pleomorphic adenoma showing the strongest concordance (kappa = 0.74). Sensitivity values across tumor types ranged from 0.25 to 0.96, with benign tumors showing higher sensitivity (>0.80) and lower specificity (<0.50) observed in complex malignancies. The overall F1-score was 0.84 for benign and 0.63 for malignant tumors. Repeated prompts produced moderate variability without significant differences (p > 0.05). Compared with the rule-based system, ChatGPT included more incorrect and missed markers, indicating lower diagnostic precision. Conclusions: ChatGPT-4 shows promise as a low-cost tool for IHC panel selection but currently lacks the precision and consistency required for clinical application. Further refinement is needed before integration into diagnostic workflows.
+RI Fernandez-Figueras, Maria-Teresa/AFE-8485-2022; Fiorillo,
+   Luca/K-8571-2019; Galletti, Cosimo/HJG-7316-2022; FADDA,
+   Guido/AAR-3196-2021; Meto, Aida/ABA-2242-2020
+OI Fiorillo, Luca/0000-0003-0335-4165; Galletti,
+   Cosimo/0000-0001-9938-4187; Gil Manich, Victor/0000-0001-9597-071X; Díaz
+   Castañeda, Wilmer Roigo/0000-0002-2493-9683
+EI 2673-7426
+PD NOV 26
+PY 2025
+VL 5
+IS 4
+AR 66
+DI 10.3390/biomedinformatics5040066
+UT WOS:001648358200001
+ER
+
+PT J
+AU Gabriel, CIO
+   Kumar, R
+   Kumar, P
+AF Gabriel, Cephas Iko-Ojo
+   Kumar, Randhir
+   Kumar, Prabhat
+TI A lightweight IoT-edge-cloud framework for Healthcare Internet of Things
+SO AD HOC NETWORKS
+AB The rapid expansion of the Healthcare Internet-of-Things (HIoT) has created new opportunities for delivering personalized, real-time medical intelligence. In such systems, IoT devices acquire data at the point of care, edge servers provide low-latency preprocessing and lightweight inference, cloud platforms perform large-scale model training and optimization, and user interfaces enable clinical decision support and feedback. Designing an effective HIoT framework requires addressing a multi-objective trade-off: maximizing accuracy A(0) and stability S(0) while minimizing latency L(0) and energy E(0), subject to constraints on model size |0| <= Mmax and robustness S(0) >= S. To address this challenge, we propose HiPER, a hierarchical optimization-driven HIoT framework that jointly integrates acquisition, analytics, intelligence, and user interaction. To demonstrate its practical utility, HiPER is applied to monkeypox (Mpox) detection, referred to as HiPER-Mpox. In this framework, the edge employs lightweight inference with privacy-preserving transformations, while the cloud leverages transfer learning using a NASNetMobile backbone with squeeze-and-excitation channel recalibration to enhance accuracy and generalization. The user layer provides interpretable outputs and incorporates clinician feedback, improving trust and robustness. Evaluation on the Mpox Skin Lesion Dataset (MSLD) shows that HiPER-Mpox achieves 96% accuracy, 93% precision, MCC of 0.9145, and Kappa of 0.911, with an average per-image latency of 554 ms and a compact 2.07 MB edge model. These results demonstrate that the proposed HIoT framework satisfies the formulated optimization objectives while delivering a practical, interpretable, and resource-efficient solution for emerging healthcare challenges.
+SN 1570-8705
+EI 1570-8713
+PD JUN 1
+PY 2026
+VL 187
+AR 104226
+DI 10.1016/j.adhoc.2026.104226
+UT WOS:001720236000001
+ER
+
+PT J
+AU López-Ubeda, P
+   Martín-Noguerol, T
+   Luna, A
+AF Lopez-Ubeda, Pilar
+   Martin-Noguerol, Teodoro
+   Luna, Antonio
+TI Integrating semantic retrieval and chain-of-thought reasoning in small
+   language models for SNOMED CT normalization
+SO INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+AB Background and Objective: Breast lesion biopsy assessment generates a high volume of pathology reports, posing a significant workload for pathologists. Standardized coding systems such as SNOMED CT Morphological codes enable consistent documentation, facilitate accurate data sharing, support clinical decision-making, and allow automated quality control. This study aims to evaluate systems that assist pathologists in normalizing and classifying free-text pathology reports to SNOMED CT Morphological codes, providing a short list of candidate codes for selection. Methods: We used 2,718 breast biopsy pathology reports from over 20 hospitals, reported by nine expert pathologists in total. A normalization pipeline combining Small Language Models (SLMs) with semantic retrieval was evaluated to map free-text reports to SNOMED CT Morphological codes. Three strategies were evaluated: zero-shot prompting, Chain-of-Thought (CoT) with retrieval-augmented generation (RAG), and RAG combined with CoT, each generating a short list of candidate codes for pathologist selection. The strategies were assessed using ranking-oriented metrics adapted to the multi-label setting, including Hit@K, Mean Reciprocal Rank (MRR), Normalized Discounted Cumulative Gain (nDCG@K), and Recall@K, which measure both the presence and ranking of correct codes within the top-K predictions. Additionally, out-of-vocabulary (OOV) metrics were reported. Results: The RAG + CoT strategy achieved the highest performance, with Hit@5 scores of 70.97% for LLaMA and 72.11% for Gemma and demonstrated a strong concentration of correct codes at Rank 1. CoT + RAG improved over zero-shot prompting but tended to place correct codes at lower ranks. Conclusion: Integrating SLMs with RAG and CoT provides an effective tool to support pathologists in coding breast biopsy pathology reports. By offering a short, curated list of SNOMED CT Morphological codes, the system enhances clinical workflow, improves data quality, and supports both prospective and retrospective analyses.
+RI López Úbeda, Pilar/AAS-2488-2021
+OI López Úbeda, Pilar/0000-0003-0478-743X
+SN 1386-5056
+EI 1872-8243
+PD MAY
+PY 2026
+VL 211
+AR 106340
+DI 10.1016/j.ijmedinf.2026.106340
+EA FEB 2026
+UT WOS:001689816500001
+PM 41678976
+ER
+
+PT J
+AU Tian, WW
+   Huang, XY
+   Cheng, TH
+   He, W
+   Fang, JW
+   Feng, R
+   Geng, DY
+   Zhang, XB
+AF Tian, Weiwei
+   Huang, Xinyu
+   Cheng, Tianhao
+   He, Wen
+   Fang, Jinwu
+   Feng, Rui
+   Geng, Daoying
+   Zhang, Xiaobo
+TI A Medical Multimodal Large Language Model for Pediatric Pneumonia
+SO IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS
+AB Pediatric pneumonia is the leading cause of death among children under five years worldwide, imposing a substantial burden on affected families. Currently, there are three significant hurdles in diagnosing and treating pediatric pneumonia. Firstly, pediatric pneumonia shares similar symptoms with other respiratory diseases, making rapid and accurate differential diagnosis challenging. Secondly, primary hospitals often lack sufficient medical resources and experienced doctors. Lastly, providing personalized diagnostic reports and treatment recommendations is labor-intensive and time-consuming. To tackle these challenges, we proposed a Medical Multimodal Large Language Model for Pediatric Pneumonia (P2Med-MLLM). It was capable of handling diverse clinical tasks-such as generating free-text medical records and radiology reports-within a unified framework. Specifically, P2Med-MLLM was trained on a large-scale dataset, including real clinical information from 163,999 outpatient and 8,684 inpatient cases. It can process both plain text data (e.g., outpatient and inpatient records) and interleaved image-text pairs (e.g., 2D chest X-ray images, 3D chest Computed Tomography images, and corresponding radiology reports). We designed a three-stage training strategy to enable P2Med-MLLM to comprehend medical knowledge and follow instructions for various clinical decision-support tasks. To rigorously evaluate P2Med-MLLM's performance, we conducted automatic scoring by the large language model and manual scoring by the specialist on the test set of 642 samples, meticulously verified by pediatric pulmonology specialists. The results demonstrated the reliability of automated scoring and the superiority of P2Med-MLLM. This work plays a crucial role in assisting doctors with prompt diagnosis and treatment planning, reducing severe symptom mortality rates, and optimizing the allocation of medical resources.
+RI xiaobo, zhang/PMR-9730-2026; Huang, Xin-Yu/JOZ-6120-2023; Tian,
+   Weiwei/PRR-5151-2026; Cao, Xin/AAX-8367-2021
+SN 2168-2194
+EI 2168-2208
+PD SEP
+PY 2025
+VL 29
+IS 9
+BP 6869
+EP 6882
+DI 10.1109/JBHI.2025.3569361
+UT WOS:001570204100015
+PM 40354198
+ER
+
+PT J
+AU Ismayilov, R
+   Altundag, O
+   Akcali, Z
+AF Ismayilov, Rashad
+   Altundag, Ozden
+   Akcali, Zafer
+TI Simulating a virtual tumor board with large language models: a pilot
+   study in NSCLC patients receiving immunotherapy
+SO IMMUNOTHERAPY
+AB BackgroundMultidisciplinary teams (MDTs) are fundamental to cancer care but face increasing burdens. This pilot study evaluates a large language model (LLM) simulating a tumor board for a clinically complex cohort of non-small cell lung cancer (NSCLC) patients, using a full-context guideline injection methodology to ground its reasoning in authoritative standards.MethodsTen real-world NSCLC cases were presented to Google's Gemini 2.5 Pro using prompt engineering. The model was primed by providing the complete National Cancer Institute guidelines as in-context source data in a structured JSON file. AI-generated recommendations were scored against the institutional human MDT.ResultsThe LLM demonstrated high performance, achieving mean scores of 4.9/5.0 for content accuracy, 5.0/5.0 for internal consistency, and 4.4/5.0 for clinical applicability. Importantly, no safety concerns were identified in the AI's recommendations. However, the model did not generate any novel insights beyond those considered by the human MDT.ConclusionsAn LLM primed with comprehensive guidelines can accurately and safely replicate MDT recommendations for complex NSCLC cases. The combination of guideline injection and meticulous prompt engineering is a critical strategy for ensuring LLM reliability. This positions these models as powerful decision-support tools to augment, not replace, expert clinical workflow.
+RI Ismayilov, Rashad/AAY-2687-2021; AKCALI, Zafer/U-7339-2017; Altundag,
+   Ozden/W-9219-2019
+OI Ismayilov, Rashad/0000-0002-7093-2722; AKCALI,
+   Zafer/0000-0003-2473-4431; 
+SN 1750-743X
+EI 1750-7448
+PD OCT 13
+PY 2025
+VL 17
+IS 15
+BP 1105
+EP 1113
+DI 10.1080/1750743X.2025.2580272
+EA NOV 2025
+UT WOS:001608327200001
+PM 41190886
+ER
+
+PT J
+AU Wang, RZ
+   Yu, C
+   Dong, Q
+   Qiu, JQ
+   Wen, T
+   Zhang, W
+   Qin, K
+AF Wang, Rongzheng
+   Yu, Cheng
+   Dong, Qian
+   Qiu, Jianqing
+   Wen, Tao
+   Zhang, Wei
+   Qin, Ke
+TI PKFAR: psychiatry knowledge-fused augmented reasoning with large
+   language models
+SO HEALTH INFORMATION SCIENCE AND SYSTEMS
+AB PurposePsychiatric diagnosis faces significant challenges due to subjective symptom reporting and complex diagnostic criteria. While Large Language Models (LLMs) offer potential clinical decision support, their implementation is hindered by privacy constraints on commercial models (e.g., GPT-o3, Gemini-2.5) and computational demands of massive-scale open-source alternatives (e.g., DeepSeek-R1). These constraints necessitate knowledge-enhanced approaches with smaller-scale LLMs as the primary research direction. However, existing methods fail to adequately address psychiatric complexities, necessitating a specialized solution for accurate diagnostic support.MethodsWe propose PKFAR (psychiatry knowledge-fused augmented reasoning), which incorporates two features: (1) PsychKG, a semantically-augmented psychiatric knowledge graph integrating psychiatric criteria with both node and relation descriptors, and (2) a three-stage hierarchical reasoning framework comprising symptom comprehension, disorder retrieval, and diagnosis reasoning. The system is evaluated on Mentat, MedQA_psychiatry, and MIMIC benchmarks using Qwen3-8B.ResultsCompared to standard one-shot CoT reasoning baselines, PKFAR achieves 12.4, 7.5, and 10.0% accuracy improvements using Qwen3-8B in zero-shot settings on Mentat, MedQA_psychiatry, and MIMIC respectively. Notably, our approach outperforms one-shot CoT performance of both GPT-o3 and DeepSeek-V3, while approaching the accuracy of DeepSeek-R1.ConclusionOur knowledge-fused approach establishes an effective balance between computational efficiency and diagnostic precision in psychiatric applications. PKFAR's structured reasoning pathway and semantically-augmented knowledge method address critical limitations in current LLM-based clinical support systems, offering a practical solution for psychiatric diagnostics.
+SN 2047-2501
+PD APR 12
+PY 2026
+VL 14
+IS 1
+AR 57
+DI 10.1007/s13755-026-00447-w
+UT WOS:001737407200001
+ER
+
+PT J
+AU Cosentino, C
+   Folino, F
+   Marozzo, F
+   Pontieri, L
+AF Cosentino, Cristian
+   Folino, Francesco
+   Marozzo, Fabrizio
+   Pontieri, Luigi
+TI Sustainable hybrid text classification: Enhancing encoder-only language
+   models with NLI-derived pseudo-examples
+SO ARRAY
+AB Building accurate text classifiers using small labeled data is a critical challenge in production systems and high-stake applications (e.g., misinformation mitigation, clinical decision support). Organizations struggle with expensive data annotation costs and need solutions that can adapt to data drifts over time. Despite their amazing results, contemporary generative Large Language Models are unsuitable for production classification tasks due to their high computational demands and inconsistent predictions. To tackle these issues, this work introduces a lightweight modular framework combining an encoder-only LM with weak supervision from pre-trained Natural Language Inference (NLI) models. The NLI models are used as zero-shot annotators, forming an ensemble that generates pseudo-labels to augment the set of training examples. Unreliable pseudo-labeled instances are discarded by using an abstention-based mechanism, based on label agreement and risk-bounded rejection thresholds. The remaining pseudo-labeled data are used to fine-tune the encoder-only classifier with minimal training overhead. Major strengths of the framework are: (i) synergistic integration of complementary pre-trained models, (ii) a cheap abstention mechanism for improving pseudo-label quality, and (iii) small computational costs (thanks to the use of small LMs and few training data and fine-tuning epochs). Tests on fake news and depression detection datasets show that this approach achieves compelling performances despite using a fraction of the computational burden required by generative LLMs and state-of-the-art semi-supervised-learning methods.
+RI Marozzo, Fabrizio/B-8802-2017; pontieri, luigi/AAN-1408-2021; Folino,
+   Francesco/H-6882-2013
+SN 2590-0056
+PD MAR
+PY 2026
+VL 29
+AR 100705
+DI 10.1016/j.array.2026.100705
+UT WOS:001706755000001
+ER
+
+PT J
+AU Kartal, A
+   Manalil, NF
+   Cheng, CD
+   Chung, LK
+   Gebhard, H
+   Greenberg, M
+   Härtl, R
+   Elsayed, GA
+AF Kartal, Ahmet
+   Manalil, Noel F.
+   Cheng, Chiungwen D.
+   Chung, Lawrance K.
+   Gebhard, Harry
+   Greenberg, Michael
+   Hartl, Roger
+   Elsayed, Galal A.
+TI Evaluating Large Language Models for Decision Support in Minimally
+   Invasive Spine Surgery Triage and Procedural Categories
+SO GLOBAL SPINE JOURNAL
+AB Study Design Vignette-based cross-sectional study.Objective Generative artificial intelligence (AI) programs such as large language models (LLMs) are reshaping treatment decision-making, yet applications in minimally invasive spine surgery (MISS) are still scarce. This study examines whether OpenAI's ChatGPT-5 Pro and Google's Gemini 2.5 Pro reproduce expert management categories from published MISS cases and measures agreement at procedural and binary triage levels.Methods We constructed 90 clinical vignettes from published case reports and prompted each LLM to assign 1 or more of ten predefined categories with two-sentence rationales. Agreement with reference was assessed using Jensen-Shannon divergence (JSD), Stuart-Maxwell tests, Cohen's kappa, and McNemar's test for surgical vs non-surgical triage.Results Divergence from reference was small, with Jensen-Shannon divergence 0.115 (ChatGPT-5 Pro) and 0.112 (Gemini 2.5 Pro), and smaller between models at 0.073. Paired multinomial tests found differences from the reference (Stuart-Maxwell chi 2(9) = 24.8 and 26.0; P = 0.007 and 0.006) but not between models (14.4; P = 0.108). Case-level agreement was slight for ChatGPT-5 Pro and fair for Gemini 2.5 Pro (kappa = 0.146 and 0.245). Collapsing categories to surgical vs non-surgical improved agreement (kappa = 0.415 and 0.587 vs reference; 0.692 between models) with no bias in rates (P >= 0.401).Conclusions LLMs may differentiate between surgical and non-surgical triage, but procedure selection should remain expert-led until systems mature. These findings establish a baseline for integrating LLMs into surgical triage workflows and highlight promise and limitations of generative AI in precision spine care.
+RI Kartal, Ahmet/PKQ-8511-2026
+OI Francis Manalil, Noel/0009-0008-1028-5659; Kartal,
+   Ahmet/0009-0007-4095-0798
+SN 2192-5682
+EI 2192-5690
+PD 2025 DEC 22
+PY 2025
+DI 10.1177/21925682251411225
+EA DEC 2025
+UT WOS:001643853200001
+PM 41424195
+ER
+
+PT J
+AU Mahyoub, M
+   Dougherty, K
+   Shukla, A
+AF Mahyoub, Mohammed
+   Dougherty, Kacie
+   Shukla, Ajit
+TI Extracting Pulmonary Embolism Diagnoses From Radiology Impressions Using
+   GPT-4o: Large Language Model Evaluation Study
+SO JMIR MEDICAL INFORMATICS
+AB Background: Pulmonary embolism (PE) is a critical condition requiring rapid diagnosis to reduce mortality. Extracting PE diagnoses from radiology reports manually is time-consuming, highlighting the need for automated solutions. Advances in natural language processing, especially transformer models like GPT-4o, offer promising tools to improve diagnostic accuracy and workflow efficiency in clinical settings. Objective: This study aimed to develop an automatic extraction system using GPT-4o to extract PE diagnoses from radiology report impressions,enhancing clinical decision-making and workflow efficiency. Methods: In total, 2 approaches were developed and evaluated: a fine-tuned Clinical Longformer as a baseline model and a GPT-4o-based extractor. Clinical Longformer, an encoder-only model, was chosen for its robustness in text classification tasks, particularly on smaller scales. GPT-4o, a decoder-only instruction-following LLM, was selected for its advanced language understanding capabilities. The study aimed to evaluate GPT-4o's ability to perform text classification compared to the baseline Clinical Longformer. The Clinical Longformer was trained on a dataset of 1000 radiology report impressions and validated on a separate set of 200 samples, while the GPT-4o extractor was validated using the same 200-sample set. Postdeployment performance was further assessed on an additional 200 operational records to evaluate model efficacy in a real-world setting. Results: GPT-4o outperformed the Clinical Longformer in 2 of the metrics, achieving a sensitivity of 1.0 (95% CI 1.0-1.0; Wilcoxon test, P<.001) and an F1-score of 0.975 (95% CI 0.9495-0.9947; Wilcoxon test, P<.001) across the validation dataset. Postdeployment evaluations also showed strong performance of the deployed GPT-4o model with a sensitivity of 1.0 (95% CI 1.0-1.0), a specificity of 0.94 (95% CI 0.8913-0.9804), and an F1-score of 0.97 (95% CI 0.9479-0.9908). This high level of accuracy supports a reduction in manual review, streamlining clinical workflows and improving diagnostic precision. Conclusions:The GPT-4o model provides an effective solution for the automatic extraction of PE diagnoses from radiology reports, offering a reliabletool that aids timely and accurate clinical decision-making. This approach has the potentialto significantly improve patient outcomes by expediting diagnosis and treatment pathways for critical conditions like PE.
+OI Mahyoub, Mohammed/0000-0002-0808-3205; Dougherty,
+   Kacie/0000-0001-6295-0026
+EI 2291-9694
+PY 2025
+VL 13
+AR e67706
+DI 10.2196/67706
+UT WOS:001466493600001
+PM 40203306
+ER
+
+PT J
+AU Jo, E
+   Noh, TI
+   Joo, HJ
+AF Jo, Eunbeen
+   Noh, Tae Il
+   Joo, Hyung Joon
+TI Large Language Model and Knowledge Graph-Driven AJCC Staging of Prostate
+   Cancer Using Pathology Reports
+SO DIAGNOSTICS
+AB Background/Objectives: To develop an automated American Joint Committee on Cancer (AJCC) staging system for radical prostatectomy pathology reports using large language model-based information extraction and knowledge graph validation. Methods: Pathology reports from 152 radical prostatectomy patients were used. Five additional parameters (Prostate-specific antigen (PSA) level, metastasis stage (M-stage), extraprostatic extension, seminal vesicle invasion, and perineural invasion) were extracted using GPT-4.1 with zero-shot prompting. A knowledge graph was constructed to model pathological relationships and implement rule-based AJCC staging with consistency validation. Information extraction performance was evaluated using a local open-source large language model (LLM) (Mistral-Small-3.2-24B-Instruct) across 16 parameters. The LLM-extracted information was integrated into the knowledge graph for automated AJCC staging classification and data consistency validation. The developed system was further validated using pathology reports from 88 radical prostatectomy patients in The Cancer Genome Atlas (TCGA) dataset. Results: Information extraction achieved an accuracy of 0.973 and an F1-score of 0.986 on the internal dataset, and 0.938 and 0.968, respectively, on external validation. AJCC staging classification showed macro-averaged F1-scores of 0.930 and 0.833 for the internal and external datasets, respectively. Knowledge graph-based validation detected data inconsistencies in 5 of 150 cases (3.3%). Conclusions: This study demonstrates the feasibility of automated AJCC staging through the integration of large language model information extraction and knowledge graph-based validation. The resulting system enables privacy-protected clinical decision support for cancer staging applications with extensibility to broader oncologic domains.
+RI Joo, Hyung Joon/Q-4875-2016
+OI Joo, Hyung Joon/0000-0003-1846-8464; Noh, Tae Il/0000-0002-5278-7672
+EI 2075-4418
+PD SEP 27
+PY 2025
+VL 15
+IS 19
+AR 2474
+DI 10.3390/diagnostics15192474
+UT WOS:001593857200001
+PM 41095693
+ER
+
+PT J
+AU Hu, DQ
+   Li, SL
+   Zhang, HY
+   Wu, N
+   Lu, XD
+AF Hu, Danqing
+   Li, Shaolei
+   Zhang, Huanyao
+   Wu, Nan
+   Lu, Xudong
+TI Using Natural Language Processing and Machine Learning to Preoperatively
+   Predict Lymph Node Metastasis for Non-Small Cell Lung Cancer With
+   Electronic Medical Records: Development and Validation Study
+SO JMIR MEDICAL INFORMATICS
+AB Background: Lymph node metastasis (LNM) is critical for treatment decision making of patients with resectable non-small cell lung cancer, but it is difficult to precisely diagnose preoperatively. Electronic medical records (EMRs) contain a large volume of valuable information about LNM, but some key information is recorded in free text, which hinders its secondary use.
+   Objective: This study aims to develop LNM prediction models based on EMRs using natural language processing (NLP) and machine learning algorithms.
+   Methods: We developed a multiturn question answering NLP model to extract features about the primary tumor and lymph nodes from computed tomography (CT) reports. We then combined these features with other structured clinical characteristics to develop LNM prediction models using machine learning algorithms. We conducted extensive experiments to explore the effectiveness of the predictive models and compared them with size criteria based on CT image findings (the maximum short axis diameter of lymph node >10 mm was regarded as a metastatic node) and clinician's evaluation. Since the NLP model may extract features with mistakes, we also calculated the concordance correlation between the predicted probabilities of models using NLP-extracted features and gold standard features to explore the influence of NLP-driven automatic extraction.
+   Results: Experimental results show that the random forest models achieved the best performances with 0.792 area under the receiver operating characteristic curve (AUC) value and 0.456 average precision (AP) value for pN2 LNM prediction and 0.768 AUC value and 0.524 AP value for pNl&N2 LNM prediction. And all machine learning models outperformed the size criteria and clinician's evaluation. The concordance correlation between the random forest models using NLP-extracted features and gold standard features is 0.950 and improved to 0.984 when the top 5 important NLP-extracted features were replaced with gold standard features.
+   Conclusions: The LNM models developed can achieve competitive performance using only limited EMR data such as CT reports and tumor markers in comparison with the clinician's evaluation. The multiturn question answering NLP model can extract features effectively to support the development of LNM prediction models, which may facilitate the clinical application of predictive models.
+OI Hu, Danqing/0000-0003-0810-4819
+EI 2291-9694
+PD APR
+PY 2022
+VL 10
+IS 4
+BP 153
+EP 170
+AR e35475
+DI 10.2196/35475
+UT WOS:000832007700012
+PM 35468085
+ER
+
+PT J
+AU Fang, MZ
+   Nakashima, M
+   Singh, K
+   Galvani, E
+   Sun, XT
+   Sorathia, S
+   Dorocak, K
+   Kwon, D
+   Nguyen, C
+   Chen, D
+AF Fang, Michelle Z.
+   Nakashima, Makiya
+   Singh, Kailash
+   Galvani, Eileen
+   Sun, Xiaotan
+   Sorathia, Sharmeen
+   Dorocak, Kevin
+   Kwon, Deborah
+   Nguyen, Christopher
+   Chen, David
+TI Cardiac magnetic resonance imaging-large language model Meta AI: a
+   finetuned large language model for identifying findings and associated
+   attributes in cardiac magnetic resonance imaging reports
+SO JOURNAL OF CARDIOVASCULAR MAGNETIC RESONANCE
+AB Background: Cardiac magnetic resonance imaging (CMR) studies contain a wealth of information on a patient's cardiovascular status. The ability to extract this data from free-text reports could serve to automate clinical decision support tools and generate data for retrospective clinical knowledge discovery, and clinical operational purposes. Few studies have examined the automatic extraction of data from free-text CMR reports, and the existing studies that do have key limitations, including small sample size and disease-specific data extraction. Existing studies also fail to extract features associated with the cardiovascular conditions that reflect nuances in natural language, such as uncertainty, severity, subtype, and anatomical locations of the condition. The goal of this study was to build a broad named entity recognition model to automatically extract a broad variety of common CMR findings and their associated attributes from CMR reports. Methods: We fine-tuned a Large Language Model Meta AI (LLaMA) model trained to identify 34 cardiovascular conditions and their associated attributes, including certainty, severity, location, and subtype of the condition. This model was trained on 1778 MRI reports and tested on 397 reports in an held-out test set and another 428 reports from another site in our hospital system with independent radiology practice and scanners. Results: Our model shows robust performance in predicting the mention of the 31 cardiovascular conditions (average F1 = 0.85). It also showed strong performance predicting attributes, including certainty (average F1 = 0.97) and severity (average F1 = 0.97). Model performance on the external validation set was generally slightly lower than the internal validation set, but performance was still strong (average F1 = 0.78 for mention, 0.97 for certainty, and 0.96 for severity). Conclusion: CMR-LLaMA has strong performance identifying a variety of concept mentions and moderate accuracies in extracting a selection of other associated attributes. NLP models can be used to automate the extraction of data from CMR reports to potentially assist with clinical and research workflow.
+OI Chen, David/0000-0001-5531-9180; Fang, Michelle/0000-0003-1548-010X;
+   Sun, Xiaotan/0009-0009-3792-1085
+SN 1097-6647
+EI 1532-429X
+PD WIN
+PY 2025
+VL 27
+IS 2
+AR 101968
+DI 10.1016/j.jocmr.2025.101968
+EA DEC 2025
+UT WOS:001641159000001
+PM 41241006
+ER
+
+PT J
+AU Schulte, E
+   Abusharkh, M
+   Dahal, K
+   Klepser, M
+   Sohn, M
+AF Schulte, Evan
+   Abusharkh, Mohamed
+   Dahal, Kushal
+   Klepser, Michael
+   Sohn, Minji
+TI Feasibility of Using Large Language Models for Structured Medication
+   Extraction from Clinical Text: A Comparative Analysis of Zero-Shot and
+   Few-Shot Paradigms
+SO APPLIED SCIENCES-BASEL
+AB The digitization of healthcare has been accompanied by a rapid expansion of electronic health records (EHRs); however, a significant proportion of critical patient data, specifically medication regimens, remains entrapped within unstructured clinical narratives. The inability to seamlessly compute this data hinders advancements in pharmacovigilance, clinical decision support, and population health management. This study presents a comprehensive, rigorous evaluation of the feasibility of deploying Large Language Models (LLMs) to automate the extraction of structured dosage information (Dose, Daily Frequency, Duration) from outpatient antimicrobial clinical notes sourced from the Collaboration to Harmonize Antimicrobial Registry Measures (CHARM) registry. We scrutinized the performance of five distinct open-weight architectures, namely GPT-OSS:20B, Gemma 2:9B, Mistral 7B, Qwen3:14B and Llama 3.2, across both Zero-Shot and Retrieval Augmented Generation (RAG)-based Few-Shot prompting paradigms. Our analysis reveals a fundamental architectural trade-off: the reasoning-optimized GPT-OSS:20B dominates the zero-shot landscape (F1 > 0.90) by leveraging abstract schema understanding, whereas the instruction-tuned Gemma 2:9B excels in the few-shot setting (F1 similar to 0.99), effectively utilizing examples as guardrails to surpass larger models. Conversely, smaller models (Mistral, Llama) exhibit a prohibitive "hallucination barrier," rendering them unsafe for unsupervised clinical application. Furthermore, we identify "Inconsistent Unit Handling" and "Complex Temporal Logic" as persistent failure modes that resist simple scaling laws. This report provides a definitive framework for selecting model architectures based on the availability of few-shot examples and highlights the necessity of dynamic RAG strategies to achieve production-grade reliability in medical informatics.
+EI 2076-3417
+PD FEB 27
+PY 2026
+VL 16
+IS 5
+AR 2300
+DI 10.3390/app16052300
+UT WOS:001714134300001
+ER
+
+PT J
+AU Yin, ZC
+   He, B
+   Chen, Z
+   Hu, ZW
+   Shi, Y
+   Xue, RZ
+   Yang, PQ
+   Ying, Y
+   Meng, Z
+   Jing, LK
+   Wang, GH
+   Xue, P
+AF Yin Zichen
+   He Bin
+   Chen Zhengyu
+   Hu Zhangwei
+   Shi Yejiong
+   Xue Ruizhi
+   Yang Panqi
+   Ying Yuzhe
+   Meng Zhe
+   Jing Linkai
+   Wang Guihuai
+   Xue Ping
+TI Optical Coherence Imaging for Clinical Applications
+SO CHINESE JOURNAL OF LASERS-ZHONGGUO JIGUANG
+AB Significance Optical coherence tomography (OCT) plays a pivotal role in medical imaging, particularly in enhancing the tumor resection accuracy. The significance of this technology lies in its ability to improve patient prognosis by providing real-time, detailed visualization of tumor boundaries and invasiveness, thereby reducing recurrence rates and aiding the precise removal of malignant tissues.
+   Progress We introduced a series of research efforts to advance the intraoperative application of optical coherence imaging. Vascular characteristics are an important basis for intraoperative pathological assessment. We first introduced OCT angiography with adaptive multi-time intervals, which proposes a time-efficient scanning protocol by adaptive optimization of the weights of different timeinterval B-scan angiograms. This novel OCTA technique achieved better performance, with a visible vascular density increase of approximately 67% and a signal-to-noise ratio enhancement of approximately 11.6% (Figs. 2 and 3). In the context of intraoperative applications, we introduced robot-assisted OCTA, which integrated a high-resolution OCT system with a 6-degree of freedom robotic arm (Fig. 4). Robot-assisted OCTA can achieve wide-field imaging of artificially determined scanning paths. High-resolution vascular imaging of the mouse brain by robot-assisted OCTA successfully confirmed the effect of unevenly distributed resolution and fall-off caused by the large-curvature sample (Fig. 5). Thereafter, we introduced a microscope-integrated OCT system that can be well integrated with current intraoperative equipment and does not need to pause the surgical process (Figs. 6 and 7). Providing real-time tissue depth information to a doctor can help improve their decision-making ability in delicate surgical procedures such as ophthalmology and nervous system surgery. Intraoperative three-dimensional (3D) real-time imaging requires an OCT system with high imaging and processing speeds. Thereafter, we introduced the 10.3 MHz ultra-high speed scanning laser with stretch pulse modelocked based on polarization isolation (Fig. 8), which employs a simple and low-cost approach to suppress the transmitted light and achieves an effective duty cycle of similar to 100% with only one CFBG and no need for intra-cavity semiconductor optical amplifier ( SOA) modulation, extra-cavity optical buffering, and post amplification (Fig. 9). Real-time 3D OCT imaging is necessary for practical intraoperative applications, and a series of studies have been conducted to achieve this goal. A home-built 3.28 MHz FDML based OCT system combined with GPUs (NVIDIA, GeForce GTX690, and GeForce GTX680, USA) achieved real-time processing and visualization of 3D OCT data (Fig. 10). The imaging range and longitudinal resolution can be flexibly adjusted by changing the spectral range of the output.
+   Although OCT offers high-quality structural and vascular imaging, it lacks cellular resolution, which limits detailed tumor analysis. Dynamic full-field OCT ( D-FFOCT) is an optically active rapid pathological imaging technology based on array interference detection that captures subcellular metabolic motion at millisecond temporal and nanometer spatial scales, and significantly enhances tumor diagnostics by providing detailed insights beyond conventional OCT capabilities (Fig. 11). Normal and diseased tissues can be accurately distinguished by analyzing the temporal characteristics of dynamic signals, such as amplitude, frequency, and standard difference. Through the use of high-power objective lenses and broadband light sources, the resolution can reach sub-microns, and as an imaging tool for intraoperative tissue sections, it is fast, easy (no freezing or staining is required), and highly accurate. Freshly isolated mouse brain glioma sections were imaged using the D-FFOCT system, which showed a clear boundary, distinct cell structure, and dynamic intensity between the glioma and normal brain tissue (Fig. 12).
+   Conclusions and Prospects Advancements in OCT technology, including the significantly increased sweep speed of the light source, improvement of the probe for the intraoperative scene, optimization of the blood flow algorithm, and high-speed data processing capability supported by the GPU, make real-time intraoperative 3D tomography possible. D-FFOCT imaging with a cell-resolving ability is an important step forward in the timely pathology of tumor resection. The integration of advanced OCT technologies into clinical practice heralds a new era of precision medicine in which surgical accuracy is significantly enhanced and tumor recurrence is minimized. Future studies should focus on further refining OCT capabilities, integrating these advanced technologies to improve clinical practicability, expanding their applications across different types of cancer, and integrating AI to automate and enhance diagnostic accuracy. This vision foresees OCT not only as a tool for improved surgical interventions but also as a pivotal element in the broader strategy of personalized and targeted treatment approaches, offering a beacon of hope for more effective cancer management and patient recovery paths. The ultimate goal is to establish OCT as an indispensable tool for tumor surgery and management, revolutionizing patient care and outcomes.
+SN 0258-7025
+PD MAY
+PY 2024
+VL 51
+IS 9
+AR 0907002
+DI 10.3788/CJL231460
+UT WOS:001350985300002
+ER
+
+PT J
+AU Kahyaoglu, S
+   Kaygisiz, A
+   Alatli, I
+   Boyaci, AI
+   Aray, E
+   Tulgar, S
+   Balci, D
+AF Kahyaoglu, Selma
+   Kaygisiz, Abdullah
+   Alatli, Izzet
+   Boyaci, Ayse Isik
+   Aray, Emre
+   Tulgar, Serkan
+   Balci, Deniz
+TI Large Language Model-Assisted Point-in-Time Interpretation of Advanced
+   Hemodynamics in Liver Transplant Recipients: A Pilot Evaluation of
+   Content Quality and Safety
+SO JOURNAL OF CLINICAL MEDICINE
+AB Background: Large language models (LLMs) are increasingly used in clinical medicine, yet their ability to interpret advanced intraoperative hemodynamic monitoring-particularly in the context of liver transplantation-remains largely unexplored. In this proof-of-concept study, we evaluated ChatGPT's capacity to interpret multimodal hemodynamic data derived from both standard anesthesia monitoring and the PiCCO system. The study also employed a structured assessment instrument (ARQuAT), adapted through a Delphi-based process to evaluate LLM-generated clinical interpretations. Methods: Ten key surgical-hemodynamic phases of liver transplantation were identified using a modified Delphi approach to capture the major physiological transitions of the procedure. Sequential screenshots representing these phases were obtained from five liver transplant recipients, yielding a total of 50 images. Each screenshot, along with standardized clinical background information, was submitted to ChatGPT. Five expert anesthesiologists independently assessed the model's responses using the modified ARQuAT tool, which includes six content-quality domains (Accuracy, Up-to-dateness, Contextual Consistency, Clinical Usability, Trustworthiness, Clarity) and a separate catastrophic Risk item. Descriptive statistics were calculated for domain-level performance. Inter-rater reliability (Kendall's W) and internal consistency (Cronbach's alpha, McDonald's omega) were also analyzed. All statistical analyses and visualizations were performed using NumIQO. Results: ChatGPT demonstrated consistently high performance across all content-quality domains, with median scores ranging from 4.6 to 4.8 and more than 90% of all ratings classified as satisfactory. Lower scores appeared only in a small subset of frames associated with abrupt hemodynamic changes and did not indicate a recurring weakness in any specific domain. Catastrophic Risk exhibited a pronounced floor effect, with 86% of ratings scored as 0 and only three isolated high-risk assessments across the dataset. Internal consistency of the six ARQuAT content domains was excellent, while inter-rater agreement was modest, reflecting ceiling effects and tied ratings among evaluators. Conclusions: ChatGPT generated clinically acceptable, contextually aligned interpretations of complex intraoperative hemodynamic data in liver transplant recipients, with minimal evidence of unsafe recommendations. These findings suggest preliminary promise for LLM-assisted interpretation of advanced monitoring, while underscoring the need for future studies involving larger datasets, dynamic physiological inputs, and expanded evaluator groups. The reliability characteristics observed also provide initial support for further refinement and broader validation of the Delphi-derived ARQuAT framework.
+RI Balci, Deniz/F-9013-2011; Tulgar, Serkan/AAE-2589-2019
+EI 2077-0383
+PD JAN 15
+PY 2026
+VL 15
+IS 2
+AR 716
+DI 10.3390/jcm15020716
+UT WOS:001670652800001
+PM 41598654
+ER
+
+PT J
+AU Wang, XY
+   Sun, XH
+   Yang, L
+   Zhang, YT
+   Yang, T
+   Xie, JD
+   Hu, KF
+AF Wang, Xinyu
+   Sun, Xiaohe
+   Yang, Lei
+   Zhang, Yitong
+   Yang, Tao
+   Xie, Jiadong
+   Hu, Kongfa
+TI Reinforcement learning for LLM-based explainable TCM prescription
+   recommendation with implicit preferences from small language models
+SO CHINESE MEDICINE
+AB ObjectiveIn an effort to reinforce both the interpretability and accuracy of prescription recommendations in Traditional Chinese Medicine (TCM), this study puts forward a two-stage training framework that integrates knowledge distillation from a teacher model with implicit preference-driven reinforcement learning grounded in a compact model.MethodsAbove all, GPT-4o is employed to parse structured TCM clinical records, creating high-quality distillation samples. These are employed to guide Low-Rank Adaptation (LoRA)-based fine-tuning of the Qwen2.5-7B model, enabling it to generate explainable outputs in the format of "symptom analysis-prescription recommendation-prescription explanation". Then, a lightweight BART (Bidirectional and Auto-Regressive Transformers) model is trained to learn the mapping relation between symptoms and prescriptions. Its outputs are compared with those of the large model to construct preference pairs, which are subsequently utilized in Direct Preference Optimization (DPO)-based reinforcement tuning to further align the model with potentially better recommendations.ResultsThe suggested model achieves a P@30 of 35.62% and F1@30 of 37.36%, outperforming existing baselines. Knowledge distillation contributes to the improvement of the model's generalization and explainability, while implicit preference-based reinforcement further enhances F1@30 by 2.01%. Overall, the model obtains more desirable performance in both accuracy and explainability.ConclusionThe recommended approach not only improves the quality and transparency of TCM prescription recommendations, but also offers a fruitful strategy for building trustworthy and clinically applicable intelligent TCM decision-support systems.
+SN 1749-8546
+PD NOV 19
+PY 2025
+VL 20
+IS 1
+AR 193
+DI 10.1186/s13020-025-01250-7
+UT WOS:001617332300001
+PM 41254654
+ER
+
+PT J
+AU Sivarajkumar, S
+   Edupuganti, S
+   Lazris, D
+   Bhattacharya, M
+   Davis, M
+   Dressman, D
+   Thomas, R
+   Hu, Y
+   Ren, Y
+   Xu, H
+   Yang, P
+   Huang, YF
+   Wang, YS
+AF Sivarajkumar, Sonish
+   Edupuganti, Subhash
+   Lazris, David
+   Bhattacharya, Manisha
+   Davis, Michael
+   Dressman, Devin
+   Thomas, Roby
+   Hu, Yan
+   Ren, Yang
+   Xu, Hua
+   Yang, Ping
+   Huang, Yufei
+   Wang, Yanshan
+TI Extraction of Treatments and Responses From Non-Small Cell Lung Cancer
+   Clinical Notes Using Natural Language Processing
+SO JCO CLINICAL CANCER INFORMATICS
+AB PURPOSEManual extraction of treatment outcomes from unstructured oncology clinical notes is a significant challenge for real-world evidence (RWE) generation. This study aimed to develop and evaluate a robust natural language processing (NLP) system to automatically extract cancer treatments and their associated RECIST-based response categories (complete response, partial response, stable disease, and progressive disease) from non-small cell lung cancer (NSCLC) clinical notes.METHODSThis retrospective NLP development and validation study used a corpus of 250 NSCLC oncology notes from University of Pittsburgh Medical Center (UPMC) Hillman Cancer Center, annotated by physician experts. An end-to-end NLP pipeline was designed, integrating a rule-based module for entity extraction (treatments and responses) and a machine learning module using biomedical clinical bidirectional encoder representations from transformers for relation classification. The system's performance was evaluated on a held-out test set, with partial external validation for relation extraction on a Mayo Clinic data set.RESULTSThe NLP system achieved high overall accuracy. On the UPMC test set (64 notes), the relation classification model attained an area under the receiver operating characteristic curve of 0.94 and an F1 score of 0.92 for linking treatments with documented responses. The rule-based entity extraction demonstrated a macro-averaged F1 score of 0.87 (precision 0.98, recall 0.81). Although precision was high for chemotherapy and most response types (1.00), recall for cancer surgery was 0.45. External validation at Mayo Clinic showed moderate relation extraction F1 scores (range: 0.51-0.64).CONCLUSIONThe proposed NLP system can reliably extract structured treatment and response information from unstructured NSCLC oncology notes with high accuracy. This automated approach can assist in abstracting critical cancer treatment outcomes from clinical narrative text, thereby streamlining real-world data analysis and supporting the generation of RWE in oncology.
+RI ; Sonish, Sonish/JWP-8428-2024
+OI Thomas, Roby/0000-0003-4828-4586; Bhattacharya,
+   Manisha/0000-0001-9791-8990; Lazris, David/0009-0009-0592-1777; 
+SN 2473-4276
+PD JAN
+PY 2026
+VL 10
+AR e2500138
+DI 10.1200/CCI-25-00138
+UT WOS:001661172600001
+PM 41505664
+ER
+
+PT J
+AU Liu, SR
+   Huang, SS
+   Mccoy, AB
+   Wright, AP
+   Horst, S
+   Wright, A
+AF Liu, Siru
+   Huang, Sean S.
+   Mccoy, Allison B.
+   Wright, Aileen P.
+   Horst, Sara
+   Wright, Adam
+TI Optimizing Order Sets With a Large Language Model-Powered Multiagent
+   System
+SO JAMA NETWORK OPEN
+AB IMPORTANCE Optimizing order sets is vital to enhance clinical decision support and improve patient care. Manual review is resource intensive and cannot timely identify potential improvements in order sets. OBJECTIVE To develop and evaluate the utility of a large language model (LLM)-powered multiagent system in optimizing order sets. DESIGN, SETTING, AND PARTICIPANTS A multiagent system was developed and evaluated between January 1, 2024, and December 31, 2024, which comprised agents for content critique, dynamic search, knowledge retrieval, medication verification, and suggestion summarization. A filter was developed to align suggestion usefulness scores with expert preferences. Experiment 1 evaluated 735 generated suggestions from a multiagent system developed for optimizing order sets, which were assessed by 3 physicians for 9 order sets and by 1 physician for 62 order sets. Experiment 2 implemented an LLM-as-a-judge approach to align generated suggestions with expert ratings and developed a filter to further refine the system's performance. The study was performed at Vanderbilt University Medical Center. A total of 735 suggestions for 71 order sets at VUMC were evaluated by 3 physicians. MAIN OUTCOMES AND MEASURES The ratings of accuracy, usefulness, feasibility, and impact; interrater agreement; and alignment against historical ordering data. RESULTS In evaluation 1 of experiment 1, the median values for the number of suggestions scoring 4 or higher at the order set level were 5 (IQR, 5-6) for the metrics of accuracy, 2 (IQR, 1-4) for usefulness, 1 (IQR, 0-3) for feasibility, and 1 (IQR, 0-2) for impact. Of 96 suggestions, 44 (46%; 95% CI, 36%-56%) aligned with historical ordering patterns. In evaluation 2 of experiment 1, 639 suggestions were generated for 62 order sets; 52 order sets had at least 1 useful suggestion, with a median of 2 (IQR, 1-3) useful suggestions. Overall, 122 suggestions (19%; 95% CI, 16%-22%) were rated as useful. After expert alignment, Cohen kappa improved from 0.06 to 0.41. Filtering using the aligned scores reduced total suggestions by 29% while retaining 92% of useful suggestions. CONCLUSIONS AND RELEVANCE In this cohort study of an LLM-powered multiagent system for optimizing order sets, leveraging LLMs and multiagent systems provided a scalable approach. Alignment with a small set of expert ratings significantly enhanced the LLM evaluation. Future research could refine reasoning capabilities and integrate useful suggestions into electronic health records, while engaging end-users as artificial intelligence-supported reviewers.
+RI McCoy, Allison/B-6143-2011; Wright, Adam/B-9031-2009; Horst,
+   Sara/AFN-4513-2022
+OI McCoy, Allison/0000-0003-2292-9147; 
+SN 2574-3805
+PD SEP 23
+PY 2025
+VL 8
+IS 9
+AR e2533277
+DI 10.1001/jamanetworkopen.2025.33277
+UT WOS:001581477300003
+PM 40986301
+ER
+
+PT J
+AU Ozmen, BB
+   Singh, N
+   Shah, K
+   Berber, I
+   Singh, D
+   Pinsky, E
+   Rampazzo, A
+   Schwarz, GS
+AF Ozmen, Berk B.
+   Singh, Nishant
+   Shah, Kavach
+   Berber, Ibrahim
+   Singh, Damanjit
+   Pinsky, Eugene
+   Rampazzo, Antonio
+   Schwarz, Graham S.
+TI Development of a novel artificial intelligence clinical decision support
+   tool for hand surgery: HandRAG
+SO JOURNAL OF HAND AND MICROSURGERY
+AB Purpose: Hand surgery decision-making requires integration of complex anatomical understanding, diverse patient-specific factors, and nuanced operative techniques. While artificial intelligence (AI), large language models (LLMs), and retrieval-augmented generation (RAG) models have advanced significantly in various fields, no AI-driven clinical decision support systems currently exist for hand surgery. A novel retrieval-enhanced AI large language model specifically tailored for hand surgery was developed, capable of effectively utilizing peerreviewed published hand surgery literature for clinical decision support in real-time at point of care. Methods: An AI clinical decision support system was developed integrating all available open-access 4510 peerreviewed hand surgery publications from 2000 to 2024 identified through hand surgery-relevant keywords. Documents were processed using a hierarchical pipeline based on the RAPTOR methodology, which breaks down large texts into smaller segments to enhance accurate retrieval. The system was evaluated using 15 standardized clinical queries assessed using automated computational metrics for correctness and semantic similarity to source documents. Results: The AI system demonstrated consistent performance with an average G-Eval correctness score of 0.79, SEM with an average similarity score of 0.75 (range: 0.54-0.86) and average maximum similarity score of 0.80 (range: 0.56-0.91), predominantly at moderate confidence levels. Generated recommendations were contextually appropriate and reliably linked to relevant hand surgery literature, providing accurate and clinically meaningful guidance. Conclusion: The AI system, HandRAG, incorporating RAG and LLM approach offers potential benefits for evidence-based clinical decision support and education in hand surgery.
+RI Ozmen, Berk Baris/KIG-1060-2024; Pinsky, Eugene/MCY-5735-2025; Shah,
+   Kavach/LVS-1375-2024; berber, ibrahim/E-2583-2016
+OI Ozmen, Berk Baris/0000-0001-7803-1868; Singh,
+   Nishant/0009-0003-3692-7254; 
+SN 0974-3227
+EI 0974-6897
+PD JUL
+PY 2025
+VL 17
+IS 4
+AR 100293
+DI 10.1016/j.jham.2025.100293
+EA JUN 2025
+UT WOS:001513092900002
+PM 40606653
+ER
+
+PT J
+AU Le, TD
+   Jouvet, P
+   Noumeir, R
+AF Le, Thanh-Dung
+   Jouvet, Philippe
+   Noumeir, Rita
+TI Improving Transformer Performance for French Clinical Notes
+   Classification Using Mixture of Experts on a Limited Dataset
+SO IEEE JOURNAL OF TRANSLATIONAL ENGINEERING IN HEALTH AND MEDICINE
+AB Transformer-based models have shown outstanding results in natural language processing but face challenges in applications like classifying small-scale clinical texts, especially with constrained computational resources. This study presents a customized Mixture of Expert (MoE) Transformer models for classifying small-scale French clinical texts at CHU Sainte-Justine Hospital. The MoE-Transformer addresses the dual challenges of effective training with limited data and low-resource computation suitable for in-house hospital use. Despite the success of biomedical pre-trained models such as CamemBERT-bio, DrBERT, and AliBERT, their high computational demands make them impractical for many clinical settings. Our MoE-Transformer model not only outperforms DistillBERT, CamemBERT, FlauBERT, and Transformer models on the same dataset but also achieves impressive results: an accuracy of 87%, precision of 87%, recall of 85%, and F1-score of 86%. While the MoE-Transformer does not surpass the performance of biomedical pre-trained BERT models, it can be trained at least 190 times faster, offering a viable alternative for settings with limited data and computational resources. Although the MoE-Transformer addresses challenges of generalization gaps and sharp minima, demonstrating some limitations for efficient and accurate clinical text classification, this model still represents a significant advancement in the field. It is particularly valuable for classifying small French clinical narratives within the privacy and constraints of hospital-based computational resources. Clinical and Translational Impact Statement-This study highlights the potential of customized MoE-Transformers in enhancing clinical text classification, particularly for small-scale datasets like French clinical narratives. The MoE-Transformer's ability to outperform several pre-trained BERT models marks a stride in applying NLP techniques to clinical data and integrating into a Clinical Decision Support System in a Pediatric Intensive Care Unit. The study underscores the importance of model selection and customization in achieving optimal performance for specific clinical applications, especially with limited data availability and within the constraints of hospital-based computational resources
+RI Jouvet, Philippe/H-3293-2018; LE, Thanh Dung/HGB-9391-2022
+OI Jouvet, Philippe/0000-0001-5684-3398; LE, Thanh Dung/0000-0003-0782-8698
+SN 2168-2372
+PY 2025
+VL 13
+BP 261
+EP 274
+DI 10.1109/JTEHM.2025.3576570
+UT WOS:001510902500001
+PM 40740832
+ER
+
+PT J
+AU Foppen, RJG
+   Zoccoli, A
+   Gioia, V
+AF Geukes Foppen, Remco Jan
+   Zoccoli, Alessio
+   Gioia, Vincenzo
+TI Token-Level Attribution for Transparent Biomedical AI
+SO BIOMEDICAL ENGINEERING AND COMPUTATIONAL BIOLOGY
+AB Background: Explainability (xAI) is critical for fostering trust, ensuring safety, and supporting regulatory compliance in healthcare AI systems. Large Language Models (LLMs), with impressive capabilities, operate as "black boxes" with prohibitive computational demands and regulatory challenges. Small Language Models (SLMs) with open-source architectures present a pragmatic alternative, offering efficiency, potential interpretability, and alignment with data privacy frameworks. This study evaluates whether token-level attribution (TLA) methods can provide technical traceability in SLMs for clinical decision support.Methods: The Captum 0.7 attribution library was applied to a Qwen-2.5-1.5B model on 20 breast cancer cases from a publicly available dataset. Hardware requirements were profiled on consumer-grade GPU. Using perturbation-based integrated gradients, we analyzed how clinical input features statistically influenced token generation probabilities.Results: Attribution heatmaps successfully identified clinically relevant input features, with high-attribution tokens corresponding to expected clinical factors. The model occupied minimal storage, enabling local deployment without cloud infrastructure. This validates that SLMs can provide algorithmic traceability required for regulatory frameworks.Conclusions: This proof-of-concept demonstrates the technical feasibility of combining SLMs with perturbation-based xAI methods to achieve auditable clinical AI within practical hardware constraints. While TLA provides statistical associations, bridging toward causal clinical reasoning requires further research.
+OI Gioia, Vincenzo/0009-0004-7756-6069; Zoccoli,
+   Alessio/0009-0008-0168-9061
+SN 1179-5972
+PY 2026
+VL 17
+AR 11795972251407864
+DI 10.1177/11795972251407864
+UT WOS:001662716400001
+PM 41556064
+ER
+
+PT J
+AU Aljalal, HM
+   Alshareef, HH
+   Alduraib, NM
+   Hamdoun, HM
+   Alsedais, R
+AF Aljalal, Haneen M.
+   Alshareef, Heleen H.
+   Alduraib, Najla M.
+   Hamdoun, Hala M.
+   Alsedais, Rawabi
+TI AI-Assisted Interpretation of Children's Drawings via
+   Retrieval-Augmented Generation
+SO IEEE ACCESS
+AB This paper presents a retrieval-augmented, CLIP-based pipeline to support educators and psychologists in interpreting children's drawings. The proposed system integrates vision-language captioning, case-based retrieval, and large language model generation, where CLIP produces descriptive captions, FAISS retrieves the top- $k$ =3 semantically similar expert-annotated cases, and GPT-3.5 synthesizes a psychologically informed narrative report. Evaluation on 1,222 drawings with expert reference analyses considers six controlled variants (A1-A6) across two axes: (i) semantic similarity to expert interpretations (cosine similarity, BERTScore, ROUGE-L F1) and (ii) coverage and robustness (content-unit precision/recall/F1, ROUGE-L recall, new-information rate, and negation mismatch). In addition to the CLIP/BLIP ablations (A1-A4), two image-only multimodal VLM baselines are benchmarked (GPT-4o and LLaVA; A5-A6), and a small blinded expert rating study is conducted on 20 randomly selected drawings to contextualize trade-offs. Results show that retrieval-grounded configurations improve coverage compared to non-retrieval baselines and, in the CLIP-based comparison (A3 vs. A4), reduce polarity (negation) mismatches while maintaining competitive semantic similarity. Although GPT-4o attains the strongest similarity and content-unit scores overall, it incurs substantially higher latency and does not provide retrieval-based evidence trails; LLaVA shows mixed gains with notably lower content recall. The proposed CLIP-based variant demonstrates a favorable trade-off between faithfulness and efficiency for practical deployment, and is explicitly positioned as decision support rather than diagnosis, surfacing salient cues and transparent evidence trails for expert oversight. Overall, this work demonstrates that retrieval grounding can make AI-assisted interpretation of children's drawings more consistent, transparent, and scalable in educational and clinical contexts.
+RI ; Hamdoun, Hala/AAH-8209-2021
+OI Alsedais, Rawabi/0000-0001-9684-1020; Hamdoun, Hala/0000-0001-7617-8970
+SN 2169-3536
+PY 2026
+VL 14
+BP 25537
+EP 25550
+DI 10.1109/ACCESS.2026.3664468
+UT WOS:001700661400011
+ER
+
+PT J
+AU Umer, L
+   Iqbal, J
+   Ayaz, Y
+   Imam, H
+   Ahmad, A
+   Asgher, U
+AF Umer, Laraib
+   Iqbal, Javaid
+   Ayaz, Yasar
+   Imam, Hassan
+   Ahmad, Adil
+   Asgher, Umer
+TI StressSpeak: A Speech-Driven Framework for Real-Time Personalized Stress
+   Detection and Adaptive Psychological Support
+SO DIAGNOSTICS
+AB Background: Stress is a critical determinant of mental health, yet conventional monitoring approaches often rely on subjective self-reports or physiological signals that lack real-time responsiveness. Recent advances in large language models (LLMs) offer opportunities for speech-driven, adaptive stress detection, but existing systems are limited to retrospective text analysis, monolingual settings, or detection-only outputs. Methods: We developed a real-time, speech-driven stress detection framework that integrates audio recording, speech-to-text conversion, and linguistic analysis using transformer-based LLMs. The system provides multimodal outputs, delivering recommendations in both text and synthesized speech. Nine LLM variants were evaluated on five benchmark datasets under zero-shot and few-shot learning conditions. Performance was assessed using accuracy, precision, recall, F1-score, and misclassification trends (false-negatives and false-positives). Real-time feasibility was analyzed through latency modeling, and user-centered validation was conducted across cross-domains. Results: Few-shot fine-tuning improved model performance across all datasets, with Large Language Model Meta AI (LLaMA) and Robustly Optimized BERT Pretraining Approach (RoBERTa) achieving the highest F1-scores and reduced false-negatives, particularly for suicide risk detection. Latency analysis revealed a trade-off between responsiveness and accuracy, with delays ranging from similar to 2 s for smaller models to similar to 7.6 s for LLaMA-7B on 30 s audio inputs. Multilingual input support and multimodal output enhanced inclusivity. User feedback confirmed strong usability, accessibility, and adoption potential in real-world settings. Conclusions: This study demonstrates that real-time, LLM-powered stress detection is both technically robust and practically feasible. By combining speech-based input, multimodal feedback, and user-centered validation, the framework advances beyond traditional detection only models toward scalable, inclusive, and deployment-ready digital mental health solutions.
+RI ASGHER, UMER/K-2072-2012
+OI ASGHER, UMER/0000-0001-6535-377X; , Hassan imam/0009-0005-8436-0728;
+   Ayaz, Yasar/0000-0001-8495-5733
+EI 2075-4418
+PD NOV 12
+PY 2025
+VL 15
+IS 22
+AR 2871
+DI 10.3390/diagnostics15222871
+UT WOS:001625946300001
+PM 41300895
+ER
+
+PT J
+AU Chinn, LW
+   Nemeh, I
+   Chinn, NR
+AF Chinn, Lawrence Willis
+   Nemeh, Isabelle
+   Chinn, Natasha R.
+TI Artificial intelligence-enabled clinical decision support systems in
+   preadmission testing: a scoping review of risk prediction, triage, and
+   perioperative workflows (2020-2025)
+SO JOURNAL OF CLINICAL MONITORING AND COMPUTING
+AB Preadmission testing (PAT) is a critical step in perioperative care that supports risk stratification, triage, and optimization. Tools such as the American Society of Anesthesiologists Physical Status (ASA-PS) classification have limitations. This review mapped evidence on artificial intelligence-enabled clinical decision support systems (AI-enabled CDSS) and risk prediction tools in PAT and perioperative assessment, with particular attention to their implications for perioperative efficiency and patient safety. A scoping review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews guidelines. PubMed, Embase, Scopus, and CINAHL were searched for English-language studies published between January 1, 2020, and August 1, 2025. Eligible studies applied artificial intelligence (AI) or machine learning (ML) to preoperative or PAT-related evaluation, risk prediction, triage, or decision support. Two reviewers independently screened all records. The review was preregistered on the Open Science Framework (DOI: https://doi.org/10.17605/OSF.IO/JKCRH). The original registration described a broader "digital determinants of health" scope, which was refined to AI-enabled CDSS before data extraction. Fifty-six studies were included. Most were retrospective cohorts using imaging or electronic health record data. Radiomics and deep learning dominated oncologic prediction, while structured clinical and laboratory data informed models for anesthetic risk, transfusion, and postoperative complications. Natural language processing (NLP) predicted ASA-PS classification from preoperative text. Only a small number of prospective or randomized studies were identified. AI-enabled CDSS shows promise for perioperative risk prediction and PAT triage, but most applications remain at the proof-of-concept stage. When prospectively validated and embedded in perioperative workflows, these tools could streamline preoperative work-ups, reduce unnecessary testing and day-of-surgery cancellations, and support safer intra- and perioperative monitoring. Prospective, multicenter validation and real-world implementation studies are therefore needed before routine clinical use.
+SN 1387-1307
+EI 1573-2614
+PD APR
+PY 2026
+VL 40
+IS 2
+BP 525
+EP 545
+DI 10.1007/s10877-025-01404-w
+EA JAN 2026
+UT WOS:001676752500001
+PM 41619047
+ER
+
+PT J
+AU Abtahi, F
+   Seoane, F
+   Pau, I
+   Vega-Barbas, M
+AF Abtahi, Farhad
+   Seoane, Fernando
+   Pau, Ivan
+   Vega-Barbas, Mario
+TI Data Poisoning Vulnerabilities Across Health Care Artificial
+   Intelligence Architectures: Analytical Security Framework and Defense
+   Strategies
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+AB Background: Health care artificial intelligence (AI) systems are increasingly integrated into clinical workflows, yet remain vulnerable to data-poisoning attacks. A small number of manipulated training samples can compromise AI models used for diagnosis, documentation, and resource allocation. Existing privacy regulations, including the Health Insurance Portability and Accountability Act and the General Data Protection Regulation, may inadvertently complicate anomaly detection and cross-institutional auditing, thereby limiting visibility into adversarial activity. Objective: This study provides a comprehensive threat analysis of data poisoning vulnerabilities across major health care AI architectures. The goals are to (1) identify attack surfaces in clinical AI systems, (2) evaluate the feasibility and detectability of poisoning attacks analytically modeled in prior security research, and (3) propose a multilayered defense framework appropriate for health care settings. Methods: We synthesized empirical findings from 41 key security studies published between 2019 and 2025 and integrated them into an analytical threat-modeling framework specific to health care. We constructed 8 hypothetical yettechnically grounded attack scenarios across 4 categories: (1) architecture-specific attacks on convolutional neural networks, large language models, and reinforcement learning agents (scenario A); (2) infrastructure exploitation in federated learning and clinical documentation pipelines (scenario B); (3) poisoning of critical resourceallocation systems (scenario C); and (4) supply chain attacksaffecting commercial foundation models (scenario D). Scenarios were aligned with realistic insider-access threat modelsand current clinical deployment practices. Results: Multiple empirical studies demonstrate that attackers with access to as few as 100-500 poisoned samples can compromise health care AI systems, with attack success rates typically >= 60%. Critically, attack success depends on the absolute number of poisoned samples rather than their proportion of the training corpus, a finding that fundamentally challenges assumptions that larger datasets provide inherent protection. We estimate that detection delays commonly range from 6 to 12 months and may extend to years in distributed or privacy-constrained environments. Analytical scenarios highlight that (1) routine insider access creates numerous injection points across health care data infrastructure, (2) federated learning amplifies risks by obscuring attribution, and (3) supply chain compromises can simultaneously affect dozens to hundreds of institutions. Privacy regulations further complicate cross-patient correlation and model audit processes, substantially delaying the detection of subtle poisoning campaigns. Conclusions: Health care AI systems face significant security challenges that current regulatory frameworks and validation practices do not adequately address. We propose a multilayered defense strategy that combines ensemble disagreement monitoring, adversarial testing, privacy-preserving yet auditable mechanisms, and strengthened governance requirements. Ensuring patient safety may require a shift from opaque, high-performance models toward more interpretable and constraint-driven architectures with verifiable robustness guarantees.
+RI Vega-Barbas, Mario/F-3009-2014; Seoane, Fernando/L-3113-2015; Abtahi,
+   Farhad/J-5237-2019
+SN 1439-4456
+EI 1438-8871
+PD JAN 23
+PY 2026
+VL 28
+AR e87969
+DI 10.2196/87969
+UT WOS:001682182200003
+PM 41575020
+ER
+
+PT J
+AU Zitu, MM
+   Owen, D
+   Manne, A
+   Zhu, YX
+   Binkheder, S
+   Li, L
+AF Zitu, Md Muntasir
+   Owen, Dwight
+   Manne, Ashish
+   Zhu, Yuxi
+   Binkheder, Samar
+   Li, Lang
+TI Artificial Intelligence for Opioid Safety Surveillance from Clinical
+   Text: A Clinically Focused Review
+SO JOURNAL OF CLINICAL MEDICINE
+AB Opioid-related iatrogenic harms, including opioid use disorder, overdose, and opioid-induced respiratory depression, constitute a major patient safety challenge. Although clinicians document key safety signals in unstructured clinical narratives, many of these indicators are not readily captured by conventional surveillance approaches that rely on structured administrative data. This clinically focused narrative review synthesizes 47 empirical studies published between 2009 and 2025 that applied artificial intelligence (AI) methods to identify opioid-related harms from clinical text and to address the resulting ascertainment gap. Across studies, administrative coding systems, including ICD-10, often under-ascertain opioid-related events, whereas text-based AI can identify additional cases and contextual details often documented primarily in narrative records, such as fluctuating mental status, suspected drug causality, and responses to naloxone. Methodologically, the literature has progressed from interpretable rule-based lexicons to machine learning and deep learning models and, more recently, to transformer-based approaches, including large language models (LLMs) for classification and schema-driven extraction. Rule-based systems established the feasibility of transparent surveillance and frequently recovered clinically documented cases missed by billing codes. Subsequent supervised and deep learning approaches expanded scalability and, in a smaller subset of studies, were integrated into electronic health record workflows with operational metrics reported. More recent transformer- and LLM-based studies emphasize richer extraction schemas and benchmark development, including characterization of overdose context and intentionality and identification of potential prodromal neurocognitive signals, although external validation, calibration, and prospective outcome evaluation remain inconsistently reported. Given that the evidence base is predominantly retrospective and that clinical workflow studies remain comparatively few, a pragmatic near-term clinical role is to provide detection-to-triage decision support rather than autonomous diagnosis, in which systems surface candidate cases with reviewable evidence for clinician adjudication. Future progress will require greater standardization of phenotype definitions, routine equity auditing and subgroup reporting, stronger external validation and calibration at operational thresholds, and a shift from retrospective discrimination metrics toward prospective assessments of the clinical workflow impact, clinical utility, and patient-centered outcomes.
+RI manne, ashish/ABF-4766-2020; Owen, Dwight/AAM-4717-2021; Binkheder,
+   Samar/AAJ-2531-2020
+OI Binkheder, Samar/0000-0003-0400-823X
+EI 2077-0383
+PD FEB 22
+PY 2026
+VL 15
+IS 4
+AR 1649
+DI 10.3390/jcm15041649
+UT WOS:001700498600001
+PM 41753337
+ER
+
+PT J
+AU De Vito, G
+   Ferrucci, F
+   Angelakis, A
+AF De Vito, Gabriele
+   Ferrucci, Filomena
+   Angelakis, Athanasios
+TI LLMs For drug-Drug interaction prediction using textual drug descriptors
+SO KNOWLEDGE-BASED SYSTEMS
+AB As treatment plans involve more medications, anticipating and preventing drug-drug interactions (DDIs) becomes increasingly important. Such interactions can result in harmful side effects and may reduce therapy effectiveness. Currently, most computational approaches for DDI prediction rely heavily on complex feature engineering and require chemical information to be structured in specific formats to enable accurate detection of potential interactions. This study presents the first investigation of the application of Large Language Models (LLMs) for DDI prediction using drug characteristics expressed solely in free-text form. Specifically, we use SMILES notations, target organisms, and gene associations as inputs in purpose-designed prompts, allowing LLMs to learn the underlying relationships among these descriptors and accordingly predict possible DDIs. We evaluated the performance of 18 distinct LLMs under zero-shot, few-shot, and fine-tuning settings on the DrugBank dataset (version 5.1.12) to identify the most effective paradigm. We then assessed the generalizability of the fine-tuned models on 13 external DDI datasets against well-known machine learning baselines. The results demonstrated that, while zero-shot and few-shot paradigms showed only modest utility, fine-tuned models achieved superior sensitivity while maintaining competitive accuracy and F1-score compared to baselines. Notably, despite its small size, the Phi-3.5 2.7B model attained a sensitivity of 0.978 and an accuracy of 0.919. These findings suggest that computational efficiency and task-specific adaptation are more important than model size in order to capture the complex patterns inherent in drug interactions, and outline a more accessible paradigm for DDI prediction that can be integrated into clinical decision support systems.
+RI Angelakis, Athanasios/GNP-0331-2022; De Vito, Gabriele/AEX-3144-2022;
+   Ferrucci, Filomena/AAG-6799-2020
+SN 0950-7051
+EI 1872-7409
+PD APR 8
+PY 2026
+VL 338
+AR 115486
+DI 10.1016/j.knosys.2026.115486
+EA FEB 2026
+UT WOS:001691703300001
+ER
+
+PT J
+AU Teeple, S
+   Smith, A
+   Toerper, M
+   Levin, S
+   Halpern, S
+   Badaki-Makun, O
+   Hinson, J
+AF Teeple, Stephanie
+   Smith, Aria
+   Toerper, Matthew
+   Levin, Scott
+   Halpern, Scott
+   Badaki-Makun, Oluwakemi
+   Hinson, Jeremiah
+TI Exploring the impact of missingness on racial disparities in predictive
+   performance of a machine learning model for emergency department triage
+SO JAMIA OPEN
+AB Objective To investigate how missing data in the patient problem list may impact racial disparities in the predictive performance of a machine learning (ML) model for emergency department (ED) triage.Materials and Methods Racial disparities may exist in the missingness of EHR data (eg, systematic differences in access, testing, and/or treatment) that can impact model predictions across racialized patient groups. We use an ML model that predicts patients' risk for adverse events to produce triage-level recommendations, patterned after a clinical decision support tool deployed at multiple EDs. We compared the model's predictive performance on sets of observed (problem list data at the point of triage) versus manipulated (updated to the more complete problem list at the end of the encounter) test data. These differences were compared between Black and non-Hispanic White patient groups using multiple performance measures relevant to health equity.Results There were modest, but significant, changes in predictive performance comparing the observed to manipulated models across both Black and non-Hispanic White patient groups; c-statistic improvement ranged between 0.027 and 0.058. The manipulation produced no between-group differences in c-statistic by race. However, there were small between-group differences in other performance measures, with greater change for non-Hispanic White patients.Discussion Problem list missingness impacted model performance for both patient groups, with marginal differences detected by race.Conclusion Further exploration is needed to examine how missingness may contribute to racial disparities in clinical model predictions across settings. The novel manipulation method demonstrated may aid future research.
+   Machine learning (ML) can be used to leverage existing clinical data-like in the electronic health record (EHR)-to predict future events. ML algorithms are developed and trained using data collected and stored during prior healthcare encounters. Thus, they are prone to bias that exists within these datasets, including bias that drives more reliable predictions for one racialized group than another. A critical source of potential bias is missing data. EHR data are often incomplete; when more data are missing in more significant ways for one group than another, this can result in less reliable predictions for that group. In this study, we developed and tested a method for measuring the impact of missing data on ML prediction reliability. We used this method to measure effects of missing medical problem information on the accuracy of ML predictions used to guide an emergency department triage decision support tool, and compared these effects across racialized groups. Missing medical problem data had a small effect on prediction accuracy across all racialized groups and in this setting, impacted predictions for non-Hispanic White patients slightly more than Black patients. The method we describe here is useful for future studies that interrogate bias from missing data.
+OI Levin, Scott/0000-0002-7143-7635
+EI 2574-2531
+PD OCT 4
+PY 2023
+VL 6
+IS 4
+AR ooad107
+DI 10.1093/jamiaopen/ooad107
+UT WOS:001128531100001
+PM 38638298
+ER
+
+PT J
+AU Santos, CS
+   Amorim-Lopes, M
+AF Santos, Catarina Sousa
+   Amorim-Lopes, Mario
+TI Externally validated and clinically useful machine learning algorithms
+   to support patient-related decision-making in oncology: a scoping review
+SO BMC MEDICAL RESEARCH METHODOLOGY
+AB Background This scoping review systematically maps externally validated machine learning (ML)-based models in cancer patient care, quantifying their performance, and clinical utility, and examining relationships between models, cancer types, and clinical decisions. By synthesizing evidence, this study identifies, strengths, limitations, and areas requiring further research. Methods The review followed the Joanna Briggs Institute's methodology, Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews guidelines, and the Population, Concept, and Context mnemonic. Searches were conducted across Embase, IEEE Xplore, PubMed, Scopus, and Web of Science (January 2014-September 2022), targeting English-language quantitative studies in Q1 journals (SciMago Journal and Country Ranking > 1) that used ML to evaluate clinical outcomes for human cancer patients with commonly available data. Eligible models required external validation, clinical utility assessment, and performance metric reporting. Studies involving genetics, synthetic patients, plants, or animals were excluded. Results were presented in tabular, graphical, and descriptive form. Results From 4023 deduplicated abstracts and 636 full-text reviews, 56 studies (2018-2022) met the inclusion criteria, covering diverse cancer types and applications. Convolutional neural networks were most prevalent, demonstrating high performance, followed by gradient- and decision tree-based algorithms. Other algorithms, though underrepresented, showed promise. Lung and digestive system cancers were most frequently studied, focusing on diagnosis and outcome predictions. Most studies were retrospective and multi-institutional, primarily using image-based data, followed by text-based and hybrid approaches. Clinical utility assessments involved 499 clinicians and 12 tools, indicating improved clinician performance with AI assistance and superior performance to standard clinical systems. Discussion Interest in ML-based clinical decision-making has grown in recent years alongside increased multi-institutional collaboration. However, small sample sizes likely impacted data quality and generalizability. Persistent challenges include limited international validation across ethnicities, inconsistent data sharing, disparities in validation metrics, and insufficient calibration reporting, hindering model comparison reliability.
+EI 1471-2288
+PD FEB 21
+PY 2025
+VL 25
+IS 1
+AR 45
+DI 10.1186/s12874-025-02463-y
+UT WOS:001428233400002
+PM 39984835
+ER
+
+PT J
+AU Yang, J
+   So, J
+   Zhang, H
+   Jones, S
+   Connolly, DM
+   Golding, C
+   Griffes, E
+   Szerencsy, AC
+   Wu, T
+   Aphinyanaphongs, Y
+   Major, VJ
+AF Yang, Jie
+   So, Jonathan
+   Zhang, Hao
+   Jones, Simon
+   Connolly, Denise M.
+   Golding, Claudia
+   Griffes, Esmelin
+   Szerencsy, Adam C.
+   Wu, Tzer (Jason)
+   Aphinyanaphongs, Yindalon
+   Major, Vincent J.
+TI Development and evaluation of an artificial intelligence-based workflow
+   for the prioritization of patient portal messages
+SO JAMIA OPEN
+AB Objectives Accelerating demand for patient messaging has impacted the practice of many providers. Messages are not recommended for urgent medical issues, but some do require rapid attention. This presents an opportunity for artificial intelligence (AI) methods to prioritize review of messages. Our study aimed to highlight some patient portal messages for prioritized review using a custom AI system integrated into the electronic health record (EHR).Materials and Methods We developed a Bidirectional Encoder Representations from Transformers (BERT)-based large language model using 40 132 patient-sent messages to identify patterns involving high acuity topics that warrant an immediate callback. The model was then implemented into 2 shared pools of patient messages managed by dozens of registered nurses. A primary outcome, such as the time before messages were read, was evaluated with a difference-in-difference methodology.Results Model validation on an expert-reviewed dataset (n = 7260) yielded very promising performance (C-statistic = 97%, average-precision = 72%). A binarized output (precision = 67%, sensitivity = 63%) was integrated into the EHR for 2 years. In a pre-post analysis (n = 396 466), an improvement exceeding the trend was observed in the time high-scoring messages sit unread (21 minutes, 63 vs 42 for messages sent outside business hours).Discussion Our work shows great promise in improving care when AI is aligned with human workflow. Future work involves audience expansion, aiding users with suggested actions, and drafting responses.Conclusion Many patients utilize patient portal messages, and while most messages are routine, a small fraction describe alarming symptoms. Our AI-based workflow shortens the turnaround time to get a trained clinician to review these messages to provide safer, higher-quality care.
+   When patients send messages to their provider via their patient portal, their doctor is not always the first reader of that message. We compiled thousands of past messages and developed a machine-learning system, which learns patterns of language that patients use that warrant a faster review by a trained clinician. In our case, if a nurse sees a message flagged as "High," they can read the message, review the patient's information, and escalate as necessary by calling the patient directly or reaching out to the provider. After implementing our system, we found a significant decrease in the amount of time these "High" acuity messages sit in an inbox waiting to be read by a human (who only works within business hours). This enhances the speed at which these urgent messages are triaged, thereby accelerating the delivery of necessary care to these patients.
+RI ; Jones, Simon/G-9975-2012
+OI Zhang, Hao/0000-0002-9511-4347; Jones, Simon/0000-0002-8267-5647
+EI 2574-2531
+PD AUG 16
+PY 2024
+VL 7
+IS 3
+AR ooae078
+DI 10.1093/jamiaopen/ooae078
+UT WOS:001291542200001
+PM 39156046
+ER
+
+PT J
+AU Cirkovic, A
+   Katz, T
+AF Cirkovic, Aleksandar
+   Katz, Toam
+TI Exploring the Potential of ChatGPT-4 in Predicting Refractive Surgery
+   Categorizations: Comparative Study
+SO JMIR FORMATIVE RESEARCH
+AB Background: Refractive surgery research aims to optimally precategorize patients by their suitability for various types of surgery. Recent advances have led to the development of artificial intelligence-powered algorithms, including machine learning approaches, to assess risks and enhance workflow. Large language models (LLMs) like ChatGPT-4 (OpenAI LP) have emerged as potential general artificial intelligence tools that can assist across various disciplines, possibly including refractive surgery decision-making. However, their actual capabilities in precategorizing refractive surgery patients based on real-world parameters remain unexplored.Objective: This exploratory study aimed to validate ChatGPT-4's capabilities in precategorizing refractive surgery patients based on commonly used clinical parameters. The goal was to assess whether ChatGPT-4's performance when categorizing batch inputs is comparable to those made by a refractive surgeon. A simple binary set of categories (patient suitable for laser refractive surgery or not) as well as a more detailed set were compared.Methods: Data from 100 consecutive patients from a refractive clinic were anonymized and analyzed. Parameters included age, sex, manifest refraction, visual acuity, and various corneal measurements and indices from Scheimpflug imaging. This study compared ChatGPT-4's performance with a clinician's categorizations using Cohen kappa coefficient, a chi-square test, a confusion matrix, accuracy, precision, recall, F-1-score, and receiver operating characteristic area under the curve.Results: A statistically significant noncoincidental accordance was found between ChatGPT-4 and the clinician's categorizations with a Cohen kappa coefficient of 0.399 for 6 categories (95% CI 0.256-0.537) and 0.610 for binary categorization (95% CI 0.372-0.792). The model showed temporal instability and response variability, however. The chi-square test on 6 categories indicated an association between the 2 raters' distributions (chi(2)(5)=94.7, P<.001). Here, the accuracy was 0.68, precision 0.75, recall 0.68, and F-1-score 0.70. For 2 categories, the accuracy was 0.88, precision 0.88, recall 0.88, F-1-score 0.88, and area under the curve 0.79.Conclusions: This study revealed that ChatGPT-4 exhibits potential as a precategorization tool in refractive surgery, showing promising agreement with clinician categorizations. However, its main limitations include, among others, dependency on solely one human rater, small sample size, the instability and variability of ChatGPT's (OpenAI LP) output between iterations and nontransparency of the underlying models. The results encourage further exploration into the application of LLMs like ChatGPT-4 in health care, particularly in decision-making processes that require understanding vast clinical data. Future research should focus on defining the model's accuracy with prompt and vignette standardization, detecting confounding factors, and comparing to other versions of ChatGPT-4 and other LLMs to pave the way for larger-scale validation and real-world implementation.
+OI Ćirković, Aleksandar/0000-0002-2122-5175
+EI 2561-326X
+PY 2023
+VL 7
+AR e51798
+DI 10.2196/51798
+UT WOS:001146693300002
+PM 38153777
+ER
+
+PT J
+AU Manjunath, P
+   Lerner, B
+   Dunn, TW
+AF Manjunath, Pranav
+   Lerner, Brian
+   Dunn, Timothy W.
+TI Trust Your Neighbors: Multimodal Patient Retrieval for TBI Prognosis
+SO IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS
+AB Early and accurate triage of traumatic brain injury is critical for guiding treatment decisions that optimize patient outcomes. A major early clinical decision point occurs in the emergency department, where providers must decide whether to admit or discharge patients with head injuries, yet these decisions are often inconsistent and rarely supported by case-based frameworks. Here, we introduce RAPID-TBI (Retrieval Augmented Prediction for Informed Disposition in Traumatic Brain Injury), a multimodal system that predicts emergency department disposition using example-based retrieval to emulate clinical case-based reasoning. RAPID-TBI achieves state-of-the-art classification performance while enhancing interpretability by retrieving similar patients to inform predictions. Using a large multimodal TBI dataset from a major U.S. hospital system, RAPID-TBI integrates head CT scans, radiology reports, exam findings, laboratory values, vitals, and demographics through an attention-based encoder that generates patient embeddings for disposition classification. We further assessed RAPID-TBI across institutional and temporal generalizability, showing consistent performance and resilience to shifts in data distribution. Finally, we explored small language models as prompt-based classifiers for retrieval-guided prediction without fine-tuning. Together, these components enable RAPID-TBI to deliver consistent, individualized, and clinically grounded predictions, a promising step toward trustworthy, personalized decision support in TBI care.
+OI Lerner, Brian/0000-0002-6406-9790; Manjunath,
+   Pranav/0009-0000-5347-5665; Dunn, Timothy William/0000-0002-9381-4630
+SN 2168-2194
+EI 2168-2208
+PD DEC
+PY 2025
+VL 29
+IS 12
+BP 8775
+EP 8782
+DI 10.1109/JBHI.2025.3622508
+UT WOS:001640359100044
+PM 41359698
+ER
+
+PT J
+AU Endo, PT
+AF Endo, Patricia Takako
+TI Artificial Intelligence for Women and Child Healthcare: Is AI Able to
+   Change the Beginning of a New Story? A Perspective
+SO HEALTH SCIENCE REPORTS
+AB Background and Aims: Maternal and neonatal mortality remain critical global health challenges, particularly in low-resource settings where preventable deaths occur due to inadequate access to timely care. This article explores the potential of Artificial Intelligence (AI) to enhance maternal and child healthcare by improving early risk identification, diagnosis, treatment recommendations, and postpartum monitoring. Methods: It explores the use of AI in identifying pregnancy-related risks, recommending treatments, predicting adverse outcomes, and monitoring postpartum and neonatal care. Various AI models, including supervised machine learning, Large Language Models (LLMs), and Small/Medium Language Models (SLMs/MLMs), are discussed in terms of their feasibility into resource-limited healthcare systems. Results: AI has demonstrated significant potential in identifying pregnancy-related risks, recommending treatments, predicting adverse outcomes, and supporting postpartum and neonatal care. While AI-driven solutions can optimize healthcare decision-making and resource allocation, challenges such as data availability, integration into clinical workflows, and ethical considerations must be addressed for widespread adoption. Conclusion: AI offers promising solutions to reduce maternal and neonatal mortality by enhancing risk detection and clinical decision-making. However, its real-world implementation requires overcoming barriers related to data quality, infrastructure, and equitable deployment. Future efforts should focus on data standardization, AI model optimization for resource-limited settings, and ethical considerations in clinical integration.
+EI 2398-8835
+PD MAY 5
+PY 2025
+VL 8
+IS 5
+AR e70779
+DI 10.1002/hsr2.70779
+UT WOS:001481349600001
+PM 40330751
+ER
+
+PT J
+AU Foppen, RJG
+   Morkunas, M
+   Traverso, A
+   Dienstmann, R
+AF Foppen, R. J. Geukes
+   Morkunas, M.
+   Traverso, A.
+   Dienstmann, R.
+TI AI assistance in tumor multidisciplinary teams
+SO ESMO REAL WORLD DATA AND DIGITAL ONCOLOGY
+AB Multidisciplinary teams (MDTs), the cornerstone of modern cancer care, are facing significant operational inefficiencies. These challenges include the laborious, manual synthesis of unstructured, multimodal patient data for case preparation, which is time-consuming and prone to information overload. Furthermore, heterogeneous operational processes across MDTs themselves compound these issues. Additionally, clinical decisions are often archived in static documents, preventing the systematic collection of decision rationales essential for continuous learning and research. We propose that artificial intelligence (AI), particularly natural language processing (NLP) and large language models (LLMs), can act as integrated partners to solve these problems. The capacity of AI to seamlessly integrate diverse datasets & horbar;including imaging, histopathology, genomics, and clinical data & horbar;may be instrumental in enhancing diagnostic accuracy, refining personalized treatment plans within a complex cancer management journey. This integration can be achieved through a tiered approach, utilizing models from small NLP for targeted information extraction to foundational generative NLP for complex evidence synthesis, while addressing key challenges in validation, ethical governance, and regulatory oversight. International initiatives are actively developing validated frameworks to facilitate the widespread and standardized adoption of these AI solutions, while taking into account heterogeneous operational processes. By improving data management, streamlining decision making, and establishing crucial feedback loops, AI integration promises to enhance patient outcomes and optimize resource utilization within cancer care.
+RI Morkunas, Mindaugas/G-9628-2016
+EI 2949-8201
+PD MAR
+PY 2026
+VL 11
+AR 100684
+DI 10.1016/j.esmorw.2026.100684
+EA FEB 2026
+UT WOS:001691690000001
+PM 41930313
+ER
+
+PT J
+AU Hertlein, KM
+   Rajaei, A
+AF Hertlein, Katherine M.
+   Rajaei, Afarin
+TI Integrating Artificial Intelligence in Systemic Therapy: Strategies for
+   Effective Clinical Practice
+SO INTERNATIONAL JOURNAL OF SYSTEMIC THERAPY
+AB Artificial intelligence (AI) has pronounced utility in systemic therapy when used with clear purpose, ethical alignment, transparency, specialized models, and guardrails for safety. This paper offers a practical roadmap for couple and family therapists (CFTs) to integrate AI in treatment as a support to, rather than a replacement for, human clinical judgment and processes. Strategies for using AI in systemic therapy include: 1) identify and articulate the function and purpose clearly, 2) distinguish AI's role in treatment as the agent or tool, 3) align with professional standards and ethical codes, 4) promote transparency in AI use and processes, 5) prioritize the use of smaller, domain-specific language models when feasible, 6) establish robust safeguards and risk-mitigation protocols, and 7) formalize critical thinking processes. The strategies are presented in detail and accompanied by applied examples and ethical guidelines intended to support clinicians, supervisors, training programs, and clinical systems. A description of how to implement the strategies is presented, including a template of an AI-informed consent for clinical care. Implications for training and supervision are discussed.
+RI Rajaei, Afarin/ABA-1950-2021; Hertlein, Katherine/AAH-7167-2021
+OI Hertlein, Katherine/0000-0002-4066-7446; 
+SN 2692-398X
+EI 2692-3998
+PD 2026 FEB 20
+PY 2026
+DI 10.1080/2692398X.2026.2633648
+EA FEB 2026
+UT WOS:001694729300001
+ER
+
+PT J
+AU Lakhdhar, W
+   Arabi, M
+   Ibrahim, A
+   Arabi, A
+   Serag, A
+AF Lakhdhar, Wafa
+   Arabi, Maryam
+   Ibrahim, Ahmed
+   Arabi, Abdulrahman
+   Serag, Ahmed
+TI ChatCVD: A Retrieval-Augmented Chatbot for Personalized Cardiovascular
+   Risk Assessment with a Comparison of Medical-Specific and
+   General-Purpose LLMs
+SO AI
+AB Large language models (LLMs) are increasingly being applied to clinical tasks, but it remains unclear whether medical-specific models consistently outperform smaller, generalpurpose ones. This study investigates that assumption in the context of cardiovascular disease (CVD) risk assessment. We fine-tuned eight LLMs-both general-purpose and medical-specific-using textualized data from the Behavioral Risk Factor Surveillance System (BRFSS) to classify individuals as "High Risk" or "Low Risk". To provide actionable insights, we integrated a Retrieval-Augmented Generation (RAG) framework for personalized recommendation generation and deployed the system within an interactive chatbot interface. Notably, Gemma2, a compact 2B-parameter general-purpose model, achieved a high recall (0.907) and F1-score (0.770), performing on par with larger or medical-specialized models such as Med42 and BioBERT. These findings challenge the common assumption that larger or specialized models always yield superior results, and highlight the potential of lightweight, efficiently fine-tuned LLMs for clinical decision support-especially in resource-constrained settings. Overall, our results demonstrate that general-purpose models, when fine-tuned appropriately, can offer interpretable, high-performing, and accessible solutions for CVD risk assessment and personalized healthcare delivery.
+OI LAKHDHAR, Wafa/0000-0002-2135-943X; Arabi, Maryam/0000-0003-0815-7902;
+   Serag, Ahmed/0000-0002-4145-5509; Arabi, Abdulrahman/0000-0002-6581-2574
+EI 2673-2688
+PD JUL 22
+PY 2025
+VL 6
+IS 8
+AR 163
+DI 10.3390/ai6080163
+UT WOS:001557150500001
+ER
+
+PT J
+AU Hueso, M
+   Vellido, A
+AF Hueso, Miguel
+   Vellido, Alfredo
+TI How artificial intelligence is transforming nephrology
+SO BMC NEPHROLOGY
+AB Current research in nephrology is increasingly focused on elucidating the complexity inherent in tightly interwoven molecular systems and their correlation with pathology and related therapeutics, including dialysis and renal transplantation. Rapid advances in the omics sciences, medical device sensorization, and networked digital medical devices have made such research increasingly data centered. Data-centric science requires the support of computationally powerful and sophisticated tools able to handle the overflow of novel biomarkers and therapeutic targets. This is a context in which artificial intelligence (AI) and, more specifically, machine learning (ML) can provide a clear analytical advantage, given the rapid advances in their ability to harness multimodal data, from genomic information to signal, image and even heterogeneous electronic health records (EHR). However, paradoxically, only a small fraction of ML-based medical decision support systems undergo validation and demonstrate clinical usefulness. To effectively translate all this new knowledge into clinical practice, the development of clinically compliant support systems based on interpretable and explainable ML-based methods and clear analytical strategies for personalized medicine are imperative. Intelligent nephrology, that is, the design and development of AI-based strategies for a data-centric approach to nephrology, is just taking its first steps and is by no means yet close to its coming of age. These first steps are not even homogeneously taken, as a digital divide in access to technology has become evident between developed and developing countries, also affecting underrepresented minorities. With all this in mind, this editorial aim to provide a selective overview of the current use of AI technologies in nephrology and heralds the "Artificial Intelligence in Nephrology" special issue launched by BMC Nephrology.
+RI Vellido, Alfredo/AAH-2654-2019; Hueso, Miguel/G-5647-2016
+OI Hueso, Miguel/0000-0002-1824-9141
+EI 1471-2369
+PD AUG 27
+PY 2024
+VL 25
+IS 1
+AR 276
+DI 10.1186/s12882-024-03724-6
+UT WOS:001300028900001
+PM 39192232
+ER
+
+EF
